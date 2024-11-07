@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.56">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="CEN">
+
+<title>1&nbsp; Fundamentals of Research – Research Methodology for Engineering</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./unit2.html" rel="next">
+<link href="./index.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./intro.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Fundamentals of Research</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Research Methodology for Engineering</a> 
+        <div class="sidebar-tools-main tools-wide">
+    <a href="https://github.com/sijuswamy/Research-Methodology-for-Engineering" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <div class="dropdown">
+      <a href="" title="Download" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" role="link" aria-label="Download"><i class="bi bi-download"></i></a>
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="./Research-Methodology-for-Engineering.pdf">
+              <i class="bi bi-file-pdf pe-1"></i>
+            Download PDF
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="./Research-Methodology-for-Engineering.epub">
+              <i class="bi bi-journal pe-1"></i>
+            Download ePub
+            </a>
+          </li>
+      </ul>
+    </div>
+    <div class="dropdown">
+      <a href="" title="Share" id="quarto-navigation-tool-dropdown-1" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" role="link" aria-label="Share"><i class="bi bi-share"></i></a>
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-1">
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="https://twitter.com/intent/tweet?url=|url|">
+              <i class="bi bi-twitter pe-1"></i>
+            Twitter
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
+              <i class="bi bi-facebook pe-1"></i>
+            Facebook
+            </a>
+          </li>
+      </ul>
+    </div>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Preface</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./intro.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Fundamentals of Research</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./unit2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Literature Survey Process</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./unit3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Research Design, Data Analysis, and Statistical Modelling</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./summary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Publication Ethics and Standards</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="logo.png" class="img-fluid figure-img"></p>
+<figcaption>School of Artificial Intelligence</figcaption>
+</figure>
+</div>
+</div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction"><span class="header-section-number">1.1</span> Introduction</a></li>
+  <li><a href="#types-of-research" id="toc-types-of-research" class="nav-link" data-scroll-target="#types-of-research"><span class="header-section-number">1.2</span> Types of Research</a>
+  <ul class="collapse">
+  <li><a href="#approved-types-of-research" id="toc-approved-types-of-research" class="nav-link" data-scroll-target="#approved-types-of-research"><span class="header-section-number">1.2.1</span> Approved Types of Research</a></li>
+  </ul></li>
+  <li><a href="#research-process" id="toc-research-process" class="nav-link" data-scroll-target="#research-process"><span class="header-section-number">1.3</span> Research Process</a>
+  <ul class="collapse">
+  <li><a href="#steps-in-the-research-process" id="toc-steps-in-the-research-process" class="nav-link" data-scroll-target="#steps-in-the-research-process"><span class="header-section-number">1.3.1</span> Steps in the Research Process</a></li>
+  </ul></li>
+  <li><a href="#research-questions" id="toc-research-questions" class="nav-link" data-scroll-target="#research-questions"><span class="header-section-number">1.4</span> Research Questions</a>
+  <ul class="collapse">
+  <li><a href="#importance-of-research-questions" id="toc-importance-of-research-questions" class="nav-link" data-scroll-target="#importance-of-research-questions"><span class="header-section-number">1.4.1</span> Importance of Research Questions</a></li>
+  </ul></li>
+  <li><a href="#research-design" id="toc-research-design" class="nav-link" data-scroll-target="#research-design"><span class="header-section-number">1.5</span> Research Design</a>
+  <ul class="collapse">
+  <li><a href="#defining-research-design" id="toc-defining-research-design" class="nav-link" data-scroll-target="#defining-research-design"><span class="header-section-number">1.5.1</span> Defining Research Design</a></li>
+  </ul></li>
+  <li><a href="#approaches-to-research-quantitative-vs.-qualitative" id="toc-approaches-to-research-quantitative-vs.-qualitative" class="nav-link" data-scroll-target="#approaches-to-research-quantitative-vs.-qualitative"><span class="header-section-number">1.6</span> Approaches to Research: Quantitative vs.&nbsp;Qualitative</a>
+  <ul class="collapse">
+  <li><a href="#quantitative-approach" id="toc-quantitative-approach" class="nav-link" data-scroll-target="#quantitative-approach"><span class="header-section-number">1.6.1</span> Quantitative Approach</a></li>
+  <li><a href="#qualitative-approach" id="toc-qualitative-approach" class="nav-link" data-scroll-target="#qualitative-approach"><span class="header-section-number">1.6.2</span> Qualitative Approach</a></li>
+  </ul></li>
+  <li><a href="#building-and-validating-theoretical-models" id="toc-building-and-validating-theoretical-models" class="nav-link" data-scroll-target="#building-and-validating-theoretical-models"><span class="header-section-number">1.7</span> Building and Validating Theoretical Models</a>
+  <ul class="collapse">
+  <li><a href="#importance-of-theoretical-models" id="toc-importance-of-theoretical-models" class="nav-link" data-scroll-target="#importance-of-theoretical-models"><span class="header-section-number">1.7.1</span> Importance of Theoretical Models</a></li>
+  <li><a href="#steps-in-model-building-and-validation" id="toc-steps-in-model-building-and-validation" class="nav-link" data-scroll-target="#steps-in-model-building-and-validation"><span class="header-section-number">1.7.2</span> Steps in Model Building and Validation</a></li>
+  </ul></li>
+  <li><a href="#exploratory-vs.-confirmatory-research" id="toc-exploratory-vs.-confirmatory-research" class="nav-link" data-scroll-target="#exploratory-vs.-confirmatory-research"><span class="header-section-number">1.8</span> Exploratory vs.&nbsp;Confirmatory Research</a>
+  <ul class="collapse">
+  <li><a href="#exploratory-research" id="toc-exploratory-research" class="nav-link" data-scroll-target="#exploratory-research"><span class="header-section-number">1.8.1</span> Exploratory Research</a></li>
+  <li><a href="#confirmatory-research" id="toc-confirmatory-research" class="nav-link" data-scroll-target="#confirmatory-research"><span class="header-section-number">1.8.2</span> Confirmatory Research</a></li>
+  </ul></li>
+  <li><a href="#experimental-vs.-theoretical-research" id="toc-experimental-vs.-theoretical-research" class="nav-link" data-scroll-target="#experimental-vs.-theoretical-research"><span class="header-section-number">1.9</span> Experimental vs.&nbsp;Theoretical Research</a>
+  <ul class="collapse">
+  <li><a href="#experimental-research" id="toc-experimental-research" class="nav-link" data-scroll-target="#experimental-research"><span class="header-section-number">1.9.1</span> Experimental Research</a></li>
+  <li><a href="#theoretical-research" id="toc-theoretical-research" class="nav-link" data-scroll-target="#theoretical-research"><span class="header-section-number">1.9.2</span> Theoretical Research</a></li>
+  </ul></li>
+  <li><a href="#importance-of-reasoning-in-research" id="toc-importance-of-reasoning-in-research" class="nav-link" data-scroll-target="#importance-of-reasoning-in-research"><span class="header-section-number">1.10</span> Importance of Reasoning in Research</a>
+  <ul class="collapse">
+  <li><a href="#types-of-reasoning-in-research" id="toc-types-of-reasoning-in-research" class="nav-link" data-scroll-target="#types-of-reasoning-in-research"><span class="header-section-number">1.10.1</span> Types of Reasoning in Research</a></li>
+  <li><a href="#role-of-reasoning-in-validating-research-findings" id="toc-role-of-reasoning-in-validating-research-findings" class="nav-link" data-scroll-target="#role-of-reasoning-in-validating-research-findings"><span class="header-section-number">1.10.2</span> Role of Reasoning in Validating Research Findings</a></li>
+  </ul></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary"><span class="header-section-number">1.11</span> Summary</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Fundamentals of Research</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>CEN </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="introduction" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="introduction"><span class="header-section-number">1.1</span> Introduction</h2>
+<p>This module introduces foundational concepts in research, including different types of research, the research process, framing research questions, research design, and reasoning approaches. By the end of this module, students will understand the essentials of conducting ethical and effective research, including the differentiation of methodologies and the appropriate contexts for each.</p>
+</section>
+<section id="types-of-research" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="types-of-research"><span class="header-section-number">1.2</span> Types of Research</h2>
+<section id="approved-types-of-research" class="level3" data-number="1.2.1">
+<h3 data-number="1.2.1" class="anchored" data-anchor-id="approved-types-of-research"><span class="header-section-number">1.2.1</span> Approved Types of Research</h3>
+<p>In academia, research is categorized based on purpose, methods, and goals. Understanding these categories helps researchers select an appropriate methodology. A mind map of approved types of research is given below.</p>
+<p><img src="research_types.png" class="img-fluid"></p>
+<ol type="1">
+<li><p><strong>Basic (Fundamental) Research</strong>: Aims to expand general knowledge without immediate practical application. Often theoretical, basic research seeks to increase understanding of fundamental principles.</p>
+<p><strong>Example:</strong> A theoretical physics study on string theory aims to enhance understanding of the universe’s structure without immediate practical application.</p></li>
+<li><p><strong>Applied Research</strong>: Seeks to solve practical, real-world problems by applying existing knowledge.</p>
+<p><strong>Case Study:</strong> A research project aiming to optimize renewable energy sources (e.g., solar or wind) for urban settings, providing solutions to real-world energy challenges.</p></li>
+<li><p><strong>Descriptive Research</strong>: Focuses on describing phenomena as they exist without manipulating variables. Common in fields like psychology, sociology, and market research.</p>
+<p><strong>Example:</strong> A study analyzing consumer preferences in online shopping behavior, collecting data on demographics, shopping frequency, and preferences without altering the environment.</p></li>
+<li><p><strong>Analytical Research</strong>: Uses existing data to explore new relationships and insights, typically involving statistical analysis.</p>
+<p><strong>Case Study:</strong> An analysis of existing health data to identify patterns in the spread of a disease, like examining historical data from past flu outbreaks to predict future trends.</p></li>
+<li><p><strong>Exploratory Research</strong>: Conducted to gain insight into an area with limited existing knowledge. Often serves as a preliminary step to more structured research.</p>
+<p><strong>Example:</strong> Interviews with social media influencers to explore how they perceive their role in modern advertising could serve as the basis for more in-depth studies on social influence.</p></li>
+<li><p><strong>Confirmatory Research</strong>: Conducted to confirm hypotheses or theories by testing specific predictions, often using statistical tests to validate results.</p>
+<p><strong>Case Study:</strong> A psychology study tests whether a new therapeutic approach reduces anxiety levels in a specific demographic, using structured methods to confirm initial hypotheses.</p></li>
+<li><p><strong>Quantitative Research</strong>: Involves the collection and analysis of numerical data to find patterns, test hypotheses, or make predictions. It often uses structured tools like surveys or experiments.</p></li>
+<li><p><strong>Qualitative Research</strong>: Focuses on exploring ideas, understanding experiences, and interpreting non-numerical data, typically collected through interviews, observations, and open-ended surveys.</p></li>
+</ol>
+<hr>
+</section>
+</section>
+<section id="research-process" class="level2" data-number="1.3">
+<h2 data-number="1.3" class="anchored" data-anchor-id="research-process"><span class="header-section-number">1.3</span> Research Process</h2>
+<p>A mind map of the steps invoved in a systematic research is given below.</p>
+<p><img src="research_process.png" class="img-fluid"></p>
+<section id="steps-in-the-research-process" class="level3" data-number="1.3.1">
+<h3 data-number="1.3.1" class="anchored" data-anchor-id="steps-in-the-research-process"><span class="header-section-number">1.3.1</span> Steps in the Research Process</h3>
+<p>The research process is systematic and includes multiple stages:</p>
+<ol type="1">
+<li><p><strong>Identify the Research Problem</strong>: Define a clear, researchable problem based on gaps in current knowledge or specific needs.</p></li>
+<li><p><strong>Review Literature</strong>: Conduct a comprehensive review of existing literature to understand what is already known and identify gaps.</p></li>
+<li><p><strong>Formulate Research Questions/Hypotheses</strong>: Develop questions that the research will address, often leading to specific hypotheses in quantitative research.</p></li>
+<li><p><strong>Select Research Design and Methods</strong>: Choose the design (e.g., experimental, descriptive) and methods (e.g., surveys, experiments) that best fit the research goals.</p></li>
+<li><p><strong>Collect Data</strong>: Gather data according to the chosen methods, ensuring ethical standards and reliability in data collection.</p></li>
+<li><p><strong>Analyze Data</strong>: Use appropriate analysis tools to interpret data, drawing conclusions based on evidence.</p></li>
+<li><p><strong>Report Findings</strong>: Share results through publications, presentations, or reports, adhering to publication ethics.</p></li>
+<li><p><strong>Reflect and Conclude</strong>: Conclude with implications, limitations, and recommendations for future research.</p></li>
+</ol>
+<hr>
+</section>
+</section>
+<section id="research-questions" class="level2" data-number="1.4">
+<h2 data-number="1.4" class="anchored" data-anchor-id="research-questions"><span class="header-section-number">1.4</span> Research Questions</h2>
+<section id="importance-of-research-questions" class="level3" data-number="1.4.1">
+<h3 data-number="1.4.1" class="anchored" data-anchor-id="importance-of-research-questions"><span class="header-section-number">1.4.1</span> Importance of Research Questions</h3>
+<p>Research questions provide direction, structure, and focus to a study. Good research questions are clear, concise, and researchable. They help narrow down the study’s scope and guide the choice of methodology.</p>
+<p><strong>Example:</strong> A study on the impact of remote work on productivity may have research questions like: - “How has remote work affected productivity in software development teams?” - “What factors contribute to productivity challenges in remote work setups?”</p>
+<hr>
+</section>
+</section>
+<section id="research-design" class="level2" data-number="1.5">
+<h2 data-number="1.5" class="anchored" data-anchor-id="research-design"><span class="header-section-number">1.5</span> Research Design</h2>
+<p>A detailed mindmap of different types of research designs used in scientific research is given below.</p>
+<p><img src="research_design.png" class="img-fluid"></p>
+<section id="defining-research-design" class="level3" data-number="1.5.1">
+<h3 data-number="1.5.1" class="anchored" data-anchor-id="defining-research-design"><span class="header-section-number">1.5.1</span> Defining Research Design</h3>
+<p>Research design refers to the framework or strategy used to answer research questions. It includes decisions on data collection, analysis methods, and sampling.</p>
+<p><strong>Types of Research Design:</strong> - <strong>Experimental Design:</strong> Involves manipulation of variables to establish cause-and-effect relationships. - <strong>Non-Experimental Design:</strong> Includes observational studies without manipulating variables, like correlational or descriptive research.</p>
+<p><strong>Example:</strong> An experiment testing a new medication would assign participants to control and treatment groups to compare outcomes and establish causality.</p>
+<hr>
+</section>
+</section>
+<section id="approaches-to-research-quantitative-vs.-qualitative" class="level2" data-number="1.6">
+<h2 data-number="1.6" class="anchored" data-anchor-id="approaches-to-research-quantitative-vs.-qualitative"><span class="header-section-number">1.6</span> Approaches to Research: Quantitative vs.&nbsp;Qualitative</h2>
+<section id="quantitative-approach" class="level3" data-number="1.6.1">
+<h3 data-number="1.6.1" class="anchored" data-anchor-id="quantitative-approach"><span class="header-section-number">1.6.1</span> Quantitative Approach</h3>
+<p>The quantitative approach involves collecting and analyzing numerical data. It’s ideal for studies needing measurable, objective results.</p>
+<p><strong>Example:</strong> A survey collecting data on student test scores to examine the correlation between study time and performance.</p>
+</section>
+<section id="qualitative-approach" class="level3" data-number="1.6.2">
+<h3 data-number="1.6.2" class="anchored" data-anchor-id="qualitative-approach"><span class="header-section-number">1.6.2</span> Qualitative Approach</h3>
+<p>The qualitative approach focuses on non-numerical data, emphasizing understanding experiences, behaviors, and cultural contexts.</p>
+<p><strong>Case Study:</strong> Interviews with teachers to explore their perceptions of online teaching’s challenges, analyzing responses for recurring themes and insights.</p>
+<hr>
+</section>
+</section>
+<section id="building-and-validating-theoretical-models" class="level2" data-number="1.7">
+<h2 data-number="1.7" class="anchored" data-anchor-id="building-and-validating-theoretical-models"><span class="header-section-number">1.7</span> Building and Validating Theoretical Models</h2>
+<section id="importance-of-theoretical-models" class="level3" data-number="1.7.1">
+<h3 data-number="1.7.1" class="anchored" data-anchor-id="importance-of-theoretical-models"><span class="header-section-number">1.7.1</span> Importance of Theoretical Models</h3>
+<p>Theoretical models provide a framework for understanding phenomena and guiding research. Building and validating models ensure that the research’s assumptions are grounded in reality.</p>
+<p><strong>Example:</strong> A climate change model predicting temperature rises based on carbon emissions, validated by comparing predictions with observed data over time.</p>
+</section>
+<section id="steps-in-model-building-and-validation" class="level3" data-number="1.7.2">
+<h3 data-number="1.7.2" class="anchored" data-anchor-id="steps-in-model-building-and-validation"><span class="header-section-number">1.7.2</span> Steps in Model Building and Validation</h3>
+<ol type="1">
+<li><strong>Develop a Model</strong>: Create a theoretical framework based on known principles and assumptions.</li>
+<li><strong>Collect Data</strong>: Gather relevant data to test the model’s assumptions.</li>
+<li><strong>Validate Model</strong>: Compare model predictions with real-world data, adjusting as needed to increase accuracy.</li>
+</ol>
+<hr>
+</section>
+</section>
+<section id="exploratory-vs.-confirmatory-research" class="level2" data-number="1.8">
+<h2 data-number="1.8" class="anchored" data-anchor-id="exploratory-vs.-confirmatory-research"><span class="header-section-number">1.8</span> Exploratory vs.&nbsp;Confirmatory Research</h2>
+<section id="exploratory-research" class="level3" data-number="1.8.1">
+<h3 data-number="1.8.1" class="anchored" data-anchor-id="exploratory-research"><span class="header-section-number">1.8.1</span> Exploratory Research</h3>
+<p>Exploratory research seeks to understand phenomena in a new area, often preceding more structured research.</p>
+<p><strong>Example:</strong> Observational research on a new social trend, such as the rise of “digital nomad” lifestyles, to identify potential areas for in-depth study.</p>
+</section>
+<section id="confirmatory-research" class="level3" data-number="1.8.2">
+<h3 data-number="1.8.2" class="anchored" data-anchor-id="confirmatory-research"><span class="header-section-number">1.8.2</span> Confirmatory Research</h3>
+<p>Confirmatory research tests specific hypotheses or theories, using structured methodologies to validate or refute predictions.</p>
+<p><strong>Case Study:</strong> Testing a hypothesis on the relationship between exercise frequency and mental health improvements in a controlled study.</p>
+<hr>
+</section>
+</section>
+<section id="experimental-vs.-theoretical-research" class="level2" data-number="1.9">
+<h2 data-number="1.9" class="anchored" data-anchor-id="experimental-vs.-theoretical-research"><span class="header-section-number">1.9</span> Experimental vs.&nbsp;Theoretical Research</h2>
+<section id="experimental-research" class="level3" data-number="1.9.1">
+<h3 data-number="1.9.1" class="anchored" data-anchor-id="experimental-research"><span class="header-section-number">1.9.1</span> Experimental Research</h3>
+<p>Experimental research involves controlled testing of hypotheses, manipulating variables to observe effects. It’s ideal for studies requiring cause-and-effect conclusions.</p>
+<p><strong>Example:</strong> A lab study examining the impact of a specific nutrient on plant growth by controlling conditions like sunlight and water levels.</p>
+</section>
+<section id="theoretical-research" class="level3" data-number="1.9.2">
+<h3 data-number="1.9.2" class="anchored" data-anchor-id="theoretical-research"><span class="header-section-number">1.9.2</span> Theoretical Research</h3>
+<p>Theoretical research is often abstract, focusing on concepts and frameworks without direct experimentation. It aims to build or refine models or theories.</p>
+<p><strong>Case Study:</strong> Research in theoretical physics, such as developing string theory, is primarily conceptual and aims to explain fundamental aspects of the universe without immediate experimentation.</p>
+<hr>
+</section>
+</section>
+<section id="importance-of-reasoning-in-research" class="level2" data-number="1.10">
+<h2 data-number="1.10" class="anchored" data-anchor-id="importance-of-reasoning-in-research"><span class="header-section-number">1.10</span> Importance of Reasoning in Research</h2>
+<section id="types-of-reasoning-in-research" class="level3" data-number="1.10.1">
+<h3 data-number="1.10.1" class="anchored" data-anchor-id="types-of-reasoning-in-research"><span class="header-section-number">1.10.1</span> Types of Reasoning in Research</h3>
+<ol type="1">
+<li><p><strong>Deductive Reasoning</strong>: Begins with a theory or hypothesis and tests it through data collection and analysis. Common in confirmatory research.</p>
+<p><strong>Example:</strong> Hypothesizing that “increased exercise reduces stress,” then gathering data to confirm or refute this claim.</p></li>
+<li><p><strong>Inductive Reasoning</strong>: Begins with observations and patterns to develop a theory. Often used in exploratory research.</p>
+<p><strong>Example:</strong> Observing a trend in data suggesting that social media use increases in urban areas, then theorizing about its causes.</p></li>
+<li><p><strong>Abductive Reasoning</strong>: Combines both deductive and inductive approaches, focusing on forming plausible explanations based on incomplete information.</p>
+<p><strong>Case Study:</strong> A health researcher finds a link between dietary habits and disease rates, theorizing that lifestyle factors influence the correlation, though not all evidence is available.</p></li>
+</ol>
+</section>
+<section id="role-of-reasoning-in-validating-research-findings" class="level3" data-number="1.10.2">
+<h3 data-number="1.10.2" class="anchored" data-anchor-id="role-of-reasoning-in-validating-research-findings"><span class="header-section-number">1.10.2</span> Role of Reasoning in Validating Research Findings</h3>
+<p>Effective reasoning supports valid conclusions and ensures that findings are robust and generalizable. The choice of reasoning method should align with the research goals and design.</p>
+<hr>
+</section>
+</section>
+<section id="summary" class="level2" data-number="1.11">
+<h2 data-number="1.11" class="anchored" data-anchor-id="summary"><span class="header-section-number">1.11</span> Summary</h2>
+<p>This module provided a foundation in research fundamentals, including understanding types of research, the research process, forming research questions, and distinguishing between quantitative and qualitative approaches. Additionally, it outlined the importance of reasoning and various research designs, guiding researchers in making ethical, well-informed decisions.</p>
+<p>The next module will delve into more specific ethical considerations in research practices, emphasizing integrity, transparency, and accountability in the research process.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./index.html" class="pagination-link" aria-label="Preface">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Preface</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./unit2.html" class="pagination-link" aria-label="Literature Survey Process">
+        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Literature Survey Process</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

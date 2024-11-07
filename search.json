@@ -1,0 +1,492 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Methodology for Engineering",
+    "section": "",
+    "text": "Preface\nThis course, developed by the Amrita School of Artificial Intelligence, supports research scholars at Amrita Campus by providing a comprehensive approach to conducting high-quality research. The course consists of four core units, guiding students from research conceptualization to ethical considerations in scholarly work.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#unit-1-the-research-process",
+    "href": "index.html#unit-1-the-research-process",
+    "title": "Research Methodology for Engineering",
+    "section": "Unit 1: The Research Process",
+    "text": "Unit 1: The Research Process\n\nIntroduces the research process, including formulating research questions, research design, and selecting appropriate approaches (Quantitative vs. Qualitative, Exploratory vs. Confirmatory, Experimental vs. Theoretical).\nEmphasizes the importance of reasoning and model validation in research.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#unit-2-literature-survey",
+    "href": "index.html#unit-2-literature-survey",
+    "title": "Research Methodology for Engineering",
+    "section": "Unit 2: Literature Survey",
+    "text": "Unit 2: Literature Survey\n\nFocuses on the importance of literature surveys, planning literature searches, identifying key concepts, and evaluating source reliability.\nEquips scholars with strategies for locating relevant literature to contextualize their research.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#unit-3-problem-formulation-and-data-analysis",
+    "href": "index.html#unit-3-problem-formulation-and-data-analysis",
+    "title": "Research Methodology for Engineering",
+    "section": "Unit 3: Problem Formulation and Data Analysis",
+    "text": "Unit 3: Problem Formulation and Data Analysis\n\nCovers experimental research, hypothesis development, causality, error analysis, and statistical design of experiments.\nIncludes hands-on training with R software for statistical analysis, sampling, surveys, and interpretation of results.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#unit-4-philosophy-and-ethics-in-research",
+    "href": "index.html#unit-4-philosophy-and-ethics-in-research",
+    "title": "Research Methodology for Engineering",
+    "section": "Unit 4: Philosophy and Ethics in Research",
+    "text": "Unit 4: Philosophy and Ethics in Research\n\nIntroduces philosophy and ethics, focusing on moral philosophy, intellectual honesty, research integrity, and scientific misconduct (e.g., plagiarism, falsification).\nDiscusses publication ethics, conflicts of interest, and best practices for ensuring ethical conduct in research.\n\nBy the end of the course, scholars will be equipped with both the practical skills and ethical principles necessary for conducting impactful, responsible research.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Fundamentals of Research",
+    "section": "",
+    "text": "1.1 Introduction\nThis module introduces foundational concepts in research, including different types of research, the research process, framing research questions, research design, and reasoning approaches. By the end of this module, students will understand the essentials of conducting ethical and effective research, including the differentiation of methodologies and the appropriate contexts for each.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fundamentals of Research</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#types-of-research",
+    "href": "intro.html#types-of-research",
+    "title": "1  Fundamentals of Research",
+    "section": "1.2 Types of Research",
+    "text": "1.2 Types of Research\n\n1.2.1 Approved Types of Research\nIn academia, research is categorized based on purpose, methods, and goals. Understanding these categories helps researchers select an appropriate methodology. A mind map of approved types of research is given below.\n\n\nBasic (Fundamental) Research: Aims to expand general knowledge without immediate practical application. Often theoretical, basic research seeks to increase understanding of fundamental principles.\nExample: A theoretical physics study on string theory aims to enhance understanding of the universe’s structure without immediate practical application.\nApplied Research: Seeks to solve practical, real-world problems by applying existing knowledge.\nCase Study: A research project aiming to optimize renewable energy sources (e.g., solar or wind) for urban settings, providing solutions to real-world energy challenges.\nDescriptive Research: Focuses on describing phenomena as they exist without manipulating variables. Common in fields like psychology, sociology, and market research.\nExample: A study analyzing consumer preferences in online shopping behavior, collecting data on demographics, shopping frequency, and preferences without altering the environment.\nAnalytical Research: Uses existing data to explore new relationships and insights, typically involving statistical analysis.\nCase Study: An analysis of existing health data to identify patterns in the spread of a disease, like examining historical data from past flu outbreaks to predict future trends.\nExploratory Research: Conducted to gain insight into an area with limited existing knowledge. Often serves as a preliminary step to more structured research.\nExample: Interviews with social media influencers to explore how they perceive their role in modern advertising could serve as the basis for more in-depth studies on social influence.\nConfirmatory Research: Conducted to confirm hypotheses or theories by testing specific predictions, often using statistical tests to validate results.\nCase Study: A psychology study tests whether a new therapeutic approach reduces anxiety levels in a specific demographic, using structured methods to confirm initial hypotheses.\nQuantitative Research: Involves the collection and analysis of numerical data to find patterns, test hypotheses, or make predictions. It often uses structured tools like surveys or experiments.\nQualitative Research: Focuses on exploring ideas, understanding experiences, and interpreting non-numerical data, typically collected through interviews, observations, and open-ended surveys.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fundamentals of Research</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#research-process",
+    "href": "intro.html#research-process",
+    "title": "1  Fundamentals of Research",
+    "section": "1.3 Research Process",
+    "text": "1.3 Research Process\nA mind map of the steps invoved in a systematic research is given below.\n\n\n1.3.1 Steps in the Research Process\nThe research process is systematic and includes multiple stages:\n\nIdentify the Research Problem: Define a clear, researchable problem based on gaps in current knowledge or specific needs.\nReview Literature: Conduct a comprehensive review of existing literature to understand what is already known and identify gaps.\nFormulate Research Questions/Hypotheses: Develop questions that the research will address, often leading to specific hypotheses in quantitative research.\nSelect Research Design and Methods: Choose the design (e.g., experimental, descriptive) and methods (e.g., surveys, experiments) that best fit the research goals.\nCollect Data: Gather data according to the chosen methods, ensuring ethical standards and reliability in data collection.\nAnalyze Data: Use appropriate analysis tools to interpret data, drawing conclusions based on evidence.\nReport Findings: Share results through publications, presentations, or reports, adhering to publication ethics.\nReflect and Conclude: Conclude with implications, limitations, and recommendations for future research.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fundamentals of Research</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#research-questions",
+    "href": "intro.html#research-questions",
+    "title": "1  Fundamentals of Research",
+    "section": "1.4 Research Questions",
+    "text": "1.4 Research Questions\n\n1.4.1 Importance of Research Questions\nResearch questions provide direction, structure, and focus to a study. Good research questions are clear, concise, and researchable. They help narrow down the study’s scope and guide the choice of methodology.\nExample: A study on the impact of remote work on productivity may have research questions like: - “How has remote work affected productivity in software development teams?” - “What factors contribute to productivity challenges in remote work setups?”",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fundamentals of Research</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#research-design",
+    "href": "intro.html#research-design",
+    "title": "1  Fundamentals of Research",
+    "section": "1.5 Research Design",
+    "text": "1.5 Research Design\nA detailed mindmap of different types of research designs used in scientific research is given below.\n\n\n1.5.1 Defining Research Design\nResearch design refers to the framework or strategy used to answer research questions. It includes decisions on data collection, analysis methods, and sampling.\nTypes of Research Design: - Experimental Design: Involves manipulation of variables to establish cause-and-effect relationships. - Non-Experimental Design: Includes observational studies without manipulating variables, like correlational or descriptive research.\nExample: An experiment testing a new medication would assign participants to control and treatment groups to compare outcomes and establish causality.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fundamentals of Research</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#approaches-to-research-quantitative-vs.-qualitative",
+    "href": "intro.html#approaches-to-research-quantitative-vs.-qualitative",
+    "title": "1  Fundamentals of Research",
+    "section": "1.6 Approaches to Research: Quantitative vs. Qualitative",
+    "text": "1.6 Approaches to Research: Quantitative vs. Qualitative\n\n1.6.1 Quantitative Approach\nThe quantitative approach involves collecting and analyzing numerical data. It’s ideal for studies needing measurable, objective results.\nExample: A survey collecting data on student test scores to examine the correlation between study time and performance.\n\n\n1.6.2 Qualitative Approach\nThe qualitative approach focuses on non-numerical data, emphasizing understanding experiences, behaviors, and cultural contexts.\nCase Study: Interviews with teachers to explore their perceptions of online teaching’s challenges, analyzing responses for recurring themes and insights.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fundamentals of Research</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#building-and-validating-theoretical-models",
+    "href": "intro.html#building-and-validating-theoretical-models",
+    "title": "1  Fundamentals of Research",
+    "section": "1.7 Building and Validating Theoretical Models",
+    "text": "1.7 Building and Validating Theoretical Models\n\n1.7.1 Importance of Theoretical Models\nTheoretical models provide a framework for understanding phenomena and guiding research. Building and validating models ensure that the research’s assumptions are grounded in reality.\nExample: A climate change model predicting temperature rises based on carbon emissions, validated by comparing predictions with observed data over time.\n\n\n1.7.2 Steps in Model Building and Validation\n\nDevelop a Model: Create a theoretical framework based on known principles and assumptions.\nCollect Data: Gather relevant data to test the model’s assumptions.\nValidate Model: Compare model predictions with real-world data, adjusting as needed to increase accuracy.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fundamentals of Research</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#exploratory-vs.-confirmatory-research",
+    "href": "intro.html#exploratory-vs.-confirmatory-research",
+    "title": "1  Fundamentals of Research",
+    "section": "1.8 Exploratory vs. Confirmatory Research",
+    "text": "1.8 Exploratory vs. Confirmatory Research\n\n1.8.1 Exploratory Research\nExploratory research seeks to understand phenomena in a new area, often preceding more structured research.\nExample: Observational research on a new social trend, such as the rise of “digital nomad” lifestyles, to identify potential areas for in-depth study.\n\n\n1.8.2 Confirmatory Research\nConfirmatory research tests specific hypotheses or theories, using structured methodologies to validate or refute predictions.\nCase Study: Testing a hypothesis on the relationship between exercise frequency and mental health improvements in a controlled study.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fundamentals of Research</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#experimental-vs.-theoretical-research",
+    "href": "intro.html#experimental-vs.-theoretical-research",
+    "title": "1  Fundamentals of Research",
+    "section": "1.9 Experimental vs. Theoretical Research",
+    "text": "1.9 Experimental vs. Theoretical Research\n\n1.9.1 Experimental Research\nExperimental research involves controlled testing of hypotheses, manipulating variables to observe effects. It’s ideal for studies requiring cause-and-effect conclusions.\nExample: A lab study examining the impact of a specific nutrient on plant growth by controlling conditions like sunlight and water levels.\n\n\n1.9.2 Theoretical Research\nTheoretical research is often abstract, focusing on concepts and frameworks without direct experimentation. It aims to build or refine models or theories.\nCase Study: Research in theoretical physics, such as developing string theory, is primarily conceptual and aims to explain fundamental aspects of the universe without immediate experimentation.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fundamentals of Research</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#importance-of-reasoning-in-research",
+    "href": "intro.html#importance-of-reasoning-in-research",
+    "title": "1  Fundamentals of Research",
+    "section": "1.10 Importance of Reasoning in Research",
+    "text": "1.10 Importance of Reasoning in Research\n\n1.10.1 Types of Reasoning in Research\n\nDeductive Reasoning: Begins with a theory or hypothesis and tests it through data collection and analysis. Common in confirmatory research.\nExample: Hypothesizing that “increased exercise reduces stress,” then gathering data to confirm or refute this claim.\nInductive Reasoning: Begins with observations and patterns to develop a theory. Often used in exploratory research.\nExample: Observing a trend in data suggesting that social media use increases in urban areas, then theorizing about its causes.\nAbductive Reasoning: Combines both deductive and inductive approaches, focusing on forming plausible explanations based on incomplete information.\nCase Study: A health researcher finds a link between dietary habits and disease rates, theorizing that lifestyle factors influence the correlation, though not all evidence is available.\n\n\n\n1.10.2 Role of Reasoning in Validating Research Findings\nEffective reasoning supports valid conclusions and ensures that findings are robust and generalizable. The choice of reasoning method should align with the research goals and design.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fundamentals of Research</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#summary",
+    "href": "intro.html#summary",
+    "title": "1  Fundamentals of Research",
+    "section": "1.11 Summary",
+    "text": "1.11 Summary\nThis module provided a foundation in research fundamentals, including understanding types of research, the research process, forming research questions, and distinguishing between quantitative and qualitative approaches. Additionally, it outlined the importance of reasoning and various research designs, guiding researchers in making ethical, well-informed decisions.\nThe next module will delve into more specific ethical considerations in research practices, emphasizing integrity, transparency, and accountability in the research process.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fundamentals of Research</span>"
+    ]
+  },
+  {
+    "objectID": "unit2.html",
+    "href": "unit2.html",
+    "title": "2  Literature Survey Process",
+    "section": "",
+    "text": "2.1 Introduction\nLiterature review is the second step in any series research work. In scientific research, a literature review, also known as a relevant review of the literature (RRL), is an objective and critical summary of scholarly sources related to a specific research topic. It acts as a survey of current knowledge, contextualizing the research problem within the existing body of research and identifying gaps that future studies can address. Within the introduction section of a research paper, the literature review serves several key purposes:\nIt captures the reader’s interest and highlights the importance of the research area.\nIt summarizes existing research findings and theories related to the topic.\nIt pinpoints areas where existing research is lacking or contradictory, paving the way for new research questions.\nIt establishes the context for the study and demonstrates how it builds upon or challenges existing knowledge.\nIt explains how the proposed research will address the identified gaps and contribute to the field.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Literature Survey Process</span>"
+    ]
+  },
+  {
+    "objectID": "unit2.html#introduction",
+    "href": "unit2.html#introduction",
+    "title": "2  Literature Survey Process",
+    "section": "",
+    "text": "Introduces the topic and establishes its significance:\n\n\n\nProvides an overview of relevant literature:\n\n\n\nIdentifies knowledge gaps:\n\n\n\nPositions the study within the field:\n\n\n\nIllustrates how the study will advance knowledge:\n\n\n\n\n\n\n\n\nWhat is a literature review?\n\n\n\nA Literature Review is a systematic and comprehensive analysis of books, scholarly articles, and other sources relevant to a specific topic providing a base of knowledge on a topic. Literature reviews are designed to identify and critique the existing literature on a topic to justify your research by exposing gaps in current research. This investigation should provide a description, summary, and critical evaluation of works related to the research problem and should also add to the overall knowledge of the topic as well as demonstrating how your research will fit within a larger field of study. A literature review should offer a critical analysis of the current research on a topic and that analysis should direct your research objective. This should not be confused with a book review or an annotated bibliography both research tools but very different in purpose and scope. A Literature Review can be a stand-alone element or part of a larger end product, know your assignment. The key to a good Literature Review is to document your process.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Literature Survey Process</span>"
+    ]
+  },
+  {
+    "objectID": "unit2.html#elements-of-literature-review",
+    "href": "unit2.html#elements-of-literature-review",
+    "title": "2  Literature Survey Process",
+    "section": "2.2 Elements of Literature review",
+    "text": "2.2 Elements of Literature review\nA literature review is a critical analysis of existing research on a specific topic. To conduct a thorough and effective review, it’s essential to consider the following components:\n\nLocate major formative works in the field: Identify the seminal studies that have significantly shaped the current understanding of your topic. These foundational works provide a historical context and establish the key concepts and theories.\nAscertain key researchers working on this topic: Identify the leading experts in the field and their contributions. Their work can offer valuable insights, methodologies, and perspectives.\nFine fain ideas conclusions and theories. Establish similarities & differences: Analyze the key concepts, theories, and findings presented in the literature. Compare and contrast different perspectives to identify similarities, differences, and potential contradictions.\nNotice main methodologies & research techniques: Examine the research methods used in the studies, such as quantitative or qualitative approaches, data collection techniques, and analysis methods. This will help you understand the strengths and limitations of different research designs.\nIdentify gaps in existing research: Analyze the literature to identify areas where research is lacking or inconsistent. These gaps can highlight potential avenues for your own research.\nShow relationships between previous studies / theories: Examine how different studies and theories connect to each other. This will help you understand the broader context of your research and identify potential areas for synthesis or integration.\nProvide context for your own research: Position your own research within the broader context of the existing literature. Explain how your study contributes to the field and addresses any identified gaps.\nExplore existing information in the fields of research: Delve deeper into the specific areas of research related to your topic. This will help you gain a comprehensive understanding of the current state of knowledge and identify potential collaborators or resources.\n\nThese eight elements of an effective literature survey is shown in the following mind map.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Literature Survey Process</span>"
+    ]
+  },
+  {
+    "objectID": "unit2.html#key-points-to-be-taken-care-while-planning-a-literature-survey",
+    "href": "unit2.html#key-points-to-be-taken-care-while-planning-a-literature-survey",
+    "title": "2  Literature Survey Process",
+    "section": "2.3 Key points to be taken care while planning a literature survey",
+    "text": "2.3 Key points to be taken care while planning a literature survey\nA literature survey is a critical analysis of existing research on a particular topic. It provides a foundation for understanding the current state of knowledge, identifying research gaps, and establishing the context for your own research.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Literature Survey Process</span>"
+    ]
+  },
+  {
+    "objectID": "unit2.html#key-points",
+    "href": "unit2.html#key-points",
+    "title": "2  Literature Survey Process",
+    "section": "2.4 Key Points",
+    "text": "2.4 Key Points\n\n2.4.1 Define the Scope\nClearly outline the specific topic, timeframe, and geographical area you want to focus on.\n\n\n2.4.2 Develop a Search Strategy\nIdentify relevant keywords, databases, and search operators to locate relevant literature.\n\n\n2.4.3 Establish Inclusion and Exclusion Criteria\nDetermine the specific criteria that studies must meet to be included or excluded from your review.\n\n\n2.4.4 Consider the Quality of Sources\nPrioritize peer-reviewed articles from reputable journals. Consider the publication date and research methodologies used in the studies.\n\n\n2.4.5 Organize Your Findings\nGroup similar studies or findings together, identify overarching themes, and compare and contrast different studies.\n\n\n2.4.6 Evaluate the Evidence\nCritically analyze each study, assess its strengths and weaknesses, and identify potential biases or limitations.\n\n\n2.4.7 Identify Gaps in the Literature\nPinpoint areas where existing research is lacking or inconsistent, and suggest potential avenues for future research.\n\n\n2.4.8 Write a Clear and Concise Summary\nHighlight the most important conclusions from your survey and discuss their implications for the field.\nA mindmap to keep as a ready-reckener for future research planing is shown below.\n\n\n\nMindmap of Research Planning\n\n\n\n\n\n\n\n\nLayers of Knowledge\n\n\n\nIt is important to think of knowledge in a given field as consisting of three layers.\n\nFirst, there are the primary studies that researchers conduct and publish.\nSecond, are the reviews of those studies that summarize and offer new interpretations built from and often extending beyond the original studies.\nThird, there are the perceptions, conclusions, opinions, and interpretations that are shared informally that become part of the lore of the field.\n\nIn composing a literature review, it is important to note that it is often this third layer of knowledge that is cited as “true” even though it often has only a loose relationship to the primary studies and secondary literature reviews.\n\n\nwhile literature reviews are designed to provide an overview and synthesis of pertinent sources you have explored, there are several approaches to how they can be done, depending upon the type of analysis underpinning your study. Listed below are definitions of types of literature reviews:",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Literature Survey Process</span>"
+    ]
+  },
+  {
+    "objectID": "unit2.html#types-of-literature-reviews",
+    "href": "unit2.html#types-of-literature-reviews",
+    "title": "2  Literature Survey Process",
+    "section": "2.5 Types of Literature Reviews",
+    "text": "2.5 Types of Literature Reviews\nA mindmap of types of Literature reviws with charateristics is shown in the following figure and the explanation follows.\n\n\n\nMindmap of Types of Literature Review\n\n\n\nArgumentative Review: This form examines literature selectively in order to support or refute an argument, deeply embedded assumption, or philosophical problem already established in the literature. The purpose is to develop a body of literature that establishes a contrarian viewpoint. Given the value-laden nature of some social science research [e.g., educational reform; immigration control], argumentative approaches to analyzing the literature can be a legitimate and important form of discourse. However, note that they can also introduce problems of bias when they are used to make summary claims of the sort found in systematic reviews.\nIntegrative Review: Considered a form of research that reviews, critiques, and synthesizes representative literature on a topic in an integrated way such that new frameworks and perspectives on the topic are generated. The body of literature includes all studies that address related or identical hypotheses. A well-done integrative review meets the same standards as primary research in regard to clarity, rigor, and replication.\nHistorical Review: Few things rest in isolation from historical precedent. Historical reviews are focused on examining research throughout a period of time, often starting with the first time an issue, concept, theory, phenomenon emerged in the literature, then tracing its evolution within the scholarship of a discipline. The purpose is to place research in a historical context to show familiarity with state-of-the-art developments and to identify the likely directions for future research.\nMethodological Review: A review does not always focus on what someone said [content], but how they said it [method of analysis]. This approach provides a framework of understanding at different levels (i.e. those of theory, substantive fields, research approaches, and data collection and analysis techniques), enables researchers to draw on a wide variety of knowledge ranging from the conceptual level to practical documents for use in fieldwork in the areas of ontological and epistemological consideration, quantitative and qualitative integration, sampling, interviewing, data collection and data analysis, and helps highlight many ethical issues which we should be aware of and consider as we go through our study.\nSystematic Review: This form consists of an overview of existing evidence pertinent to a clearly formulated research question, which uses pre-specified and standardized methods to identify and critically appraise relevant research, and to collect, report, and analyze data from the studies that are included in the review. Typically it focuses on a very specific empirical question, often posed in a cause-and-effect form, such as “To what extent does A contribute to B?”\nTheoretical Review: The purpose of this form is to concretely examine the corpus of theory that has accumulated in regard to an issue, concept, theory, phenomenon. The theoretical literature review help establish what theories already exist, the relationships between them, to what degree the existing theories have been investigated, and to develop new hypotheses to be tested. Often this form is used to help establish a lack of appropriate theories or reveal that current theories are inadequate for explaining new or emerging research problems. The unit of analysis can focus on a theoretical concept or a whole theory or framework.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Literature Survey Process</span>"
+    ]
+  },
+  {
+    "objectID": "unit2.html#identifying-key-concepts-and-keywords-for-literature-review",
+    "href": "unit2.html#identifying-key-concepts-and-keywords-for-literature-review",
+    "title": "2  Literature Survey Process",
+    "section": "2.6 Identifying Key Concepts and Keywords for Literature Review",
+    "text": "2.6 Identifying Key Concepts and Keywords for Literature Review\nOne of the first tasks when conducting a literature review is to clearly identify the research topic or question. This step involves a comprehensive understanding of the topic, breaking it down into smaller components, and identifying key concepts that will form the foundation of the literature search.\nTo begin with, the researcher needs to understand the broader research field and the specific problem they intend to solve. For example, a study focused on improving solar panel efficiency using advanced materials requires an understanding of both solar technology and material science. These broad topics provide the groundwork for narrowing down the scope and identifying the key concepts such as solar efficiency, material properties, and energy conversion. A well-defined topic enables the researcher to break down the research question into its component parts, identifying the main ideas that will guide the literature search.\nOnce the research question has been clarified, it should be broken down into its fundamental components. Typically, these components are the essential nouns or noun phrases that represent the focus of the research. This step ensures that every relevant aspect of the question is examined. For instance, in a study asking, “What is the effect of renewable energy integration on grid stability?”, the main components would be renewable energy (the broad area), power grid (the context), and grid stability (the outcome). By dissecting the research question, the researcher can form a more targeted approach to their literature search, ensuring that no critical areas are overlooked.\nThe next step involves identifying the key concepts, which are the cornerstone ideas directly related to the research problem. These key concepts are central to the research and should reflect the primary focus areas. For example, in a study on predictive maintenance using machine learning in industrial robots, the key concepts might be predictive maintenance, machine learning, and industrial robots. These concepts guide the researcher in identifying the most relevant literature, theories, and models that apply to their area of study.\nSynonyms and alternative phrases for each key concept must also be considered to capture a broader range of literature. Different researchers may use varied terminology for similar concepts, so it’s essential to consider all possible variations. Taking renewable energy as an example, synonyms such as green energy, clean energy, sustainable energy, and alternative energy sources should be used to ensure a comprehensive search. Similarly, the term machine learning might also be represented by terms like artificial intelligence, predictive algorithms, or neural networks. Using a variety of synonyms and alternative phrases in the literature search increases the likelihood of retrieving relevant studies that might otherwise be missed.\nBoolean operators play a crucial role in refining the literature search. These operators — AND, OR, and NOT — are used to combine or exclude specific keywords in a search, helping to narrow down or broaden the results. For instance, using AND in the query “renewable energy AND grid stability” will retrieve studies that discuss both renewable energy and grid stability together, while using OR in “renewable energy OR alternative energy sources” will provide results for either term. Excluding unrelated topics can also be done using NOT, as in “renewable energy NOT fossil fuels,” which will eliminate studies focused on fossil fuels. Effectively utilizing Boolean operators allows researchers to fine-tune their search and yield more focused and relevant results.\nIn addition to Boolean operators, truncation and wildcards are powerful tools in literature searching. Truncation involves using a symbol, usually an asterisk (), to search for multiple word forms. For example, searching for “optim” will return results for optimize, optimization, and optimizing. Wildcards, on the other hand, allow the researcher to search for words with various spellings, such as “colo*r” to capture both color and colour. This technique ensures that different word forms and spellings do not lead to missed relevant studies.\nBuilding a keyword list is another essential step in organizing a literature search. After identifying key concepts and their synonyms, the researcher should create a list of keywords. This list must cover the primary terms and their variations to ensure that the search is thorough and inclusive. For instance, for a study on data privacy in cloud computing systems, the keyword list might include terms like data privacy, cloud security, encryption, cloud storage, confidential computing, and GDPR (General Data Protection Regulation). Having a well-structured keyword list allows the researcher to run an organized and efficient literature search across databases.\nIt’s also crucial to search in specialized databases relevant to the field of study. Different disciplines have dedicated databases that house specialized research. For example, engineering research may require the use of IEEE Xplore, while medical research might rely on PubMed or Medline. These databases focus on high-quality, field-specific studies and can provide more accurate and reliable information for the literature review. For example, a mechanical engineering researcher might use IEEE Xplore to search for studies related to robotics or automation, while a medical researcher investigating clinical trials may turn to PubMed or the Cochrane Library. Choosing the appropriate database is key to finding relevant and valuable studies.\nAfter conducting the initial search, the results need to be carefully reviewed to determine their relevance to the research question. Titles, abstracts, and keywords should be examined to assess whether the articles align with the research objectives. If the results are not as relevant as expected, the researcher may need to refine their search strategy by adjusting keywords, adding Boolean operators, or excluding certain topics. For instance, if a search for machine learning AND predictive maintenance returns too many general results on machine learning, refining the search with a more specific term, such as in industrial robots, can help narrow the focus. This process of reviewing and refining the search ensures that the literature review is focused and that the most relevant studies are included.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Literature Survey Process</span>"
+    ]
+  },
+  {
+    "objectID": "unit2.html#open-source-tools-for-literature-review",
+    "href": "unit2.html#open-source-tools-for-literature-review",
+    "title": "2  Literature Survey Process",
+    "section": "2.7 Open Source Tools for Literature Review",
+    "text": "2.7 Open Source Tools for Literature Review\nWhen conducting a literature review, it’s crucial to use the right tools to help streamline the process of gathering, organizing, and analyzing literature. Below are some excellent open-source tools that assist researchers in identifying key concepts, building keyword lists, conducting comprehensive searches, and managing literature.\n\n2.7.1 Zotero\nZotero is an open-source reference management tool that helps researchers collect, organize, cite, and share research sources. Its ability to recognize content from databases, websites, and journals allows for automatic extraction of metadata, making it easier to organize literature. Researchers can create collections of articles, add tags, and categorize references according to key concepts or research themes. Zotero’s integrated search and tagging features help with keyword organization and identifying related sources.\n\n2.7.1.1 Key Features\n\nAutomatic bibliography creation in various citation formats.\nCustomizable tagging and search functionality for organizing literature.\nBrowser extensions for easy collection of articles from the web.\nIntegration with word processors for seamless referencing.\n\n\n\n\n2.7.2 JabRef\nJabRef is a BibTeX reference manager that helps researchers organize and manage their references in an open-source environment. It is especially useful for users but supports other formats. JabRef’s search feature can be used to find literature based on key concepts and keywords. It also allows researchers to attach keywords and annotations to each reference for better organization and tracking.\n\n2.7.2.1 Key Features\n\nIntegration with various scientific databases like Google Scholar, Springer, and IEEE.\nOrganization of references using custom fields and keyword annotations.\nCross-platform and suitable for users.\nImport and export capabilities for various citation formats.\n\n\n\n\n2.7.3 Publish or Perish\nPublish or Perish is an open-source software that retrieves and analyzes academic citations. It uses Google Scholar, Crossref, PubMed, and other databases to extract citation data for research papers. This tool is useful for conducting keyword-based searches and evaluating the impact of literature using citation metrics, helping identify key studies that align with research concepts.\n\n2.7.3.1 Key Features\n\nSearches across databases like Google Scholar, Microsoft Academic, PubMed, and more.\nComprehensive citation analysis, including metrics like h-index and g-index.\nHelps identify the most cited and relevant literature related to key concepts.\n\n\n\n\n2.7.4 Connected Papers\nConnected Papers is an open-source tool designed to help researchers discover relevant papers in their field. By inputting a seed paper (based on identified key concepts or keywords), Connected Papers builds a graph of related works, helping researchers visually explore how studies are interconnected. This is particularly useful for identifying additional literature that may not surface during traditional keyword searches.\n\n2.7.4.1 Key Features\n\nVisual representation of related academic papers in a graph format.\nDiscover hidden connections between research papers based on a seed paper.\nIdentifies foundational and influential works in a specific research area.\n\n\n\n\n2.7.5 Mendeley\nMendeley is a free reference manager and academic social network that helps organize research papers, collaborate online, and discover the latest research trends. It allows users to annotate PDFs, organize research libraries, and search for relevant literature based on keywords and tags. Mendeley also suggests related articles based on the contents of the library, enhancing the literature search process.\n\n2.7.5.1 Key Features\n\nPDF reader and annotation tools.\nAutomatic extraction of citation details and organizing papers into folders.\nSocial networking feature for discovering and sharing papers.\nBrowser plugin to capture citations from websites.\n\n\n\n\n2.7.6 Docear\nDocear is an open-source academic literature management tool that integrates mind mapping and reference management. It helps researchers organize their literature and notes in a mind map structure, which can be particularly useful for identifying key concepts and tracking related works. Researchers can build a visual representation of their literature and keep track of keywords, concepts, and research themes.\n\n2.7.6.1 Key Features\n\nUnique mind mapping feature to organize thoughts, literature, and annotations.\nComprehensive PDF management and annotation.\nIntegration with BibTeX for users.\nHelps organize literature in hierarchical structures based on research questions.\n\n\n\n\n2.7.7 OpenThesaurus\nOpenThesaurus is a useful tool for expanding your keyword list. It provides synonyms and related terms for words, helping researchers to enhance their search queries by finding alternative expressions. This is especially helpful when trying to ensure the inclusion of all relevant literature in a keyword-based search.\n\n2.7.7.1 Key Features\n\nProvides synonyms and alternative terms for keywords.\nEnhances search queries with broader or related terms.\nOpen-source and web-based, easy to access.\n\n\n\n\n2.7.8 Voyant Tools\nVoyant Tools is an open-source text analysis and visualization tool that helps researchers analyze large volumes of text data. For literature reviews, it can process large collections of research papers to identify frequently occurring terms, key phrases, and trends, providing insights into the main themes within the body of literature.\n\n2.7.8.1 Key Features\n\nAnalyzes large text datasets and identifies frequently occurring keywords.\nProvides visualizations, including word clouds, trends, and topic modeling.\nHelps identify key concepts and terms within a corpus of literature.\n\nA table of popular leterature search tools are shown in following table.\n\n\n\nTool\nDescription\nKey Features\nWebsite\n\n\n\n\nZotero\nA free tool for managing and sharing research sources.\nReference management, citation generation, supports multiple formats, collaborative features.\nzotero.org\n\n\nJabRef\nA reference manager for BibTeX and BibLaTeX databases.\nCitation management, integrates with LaTeX, advanced search and filtering options.\njabref.org\n\n\nMendeley\nReference manager and academic social network for organizing research.\nReference management, PDF annotation, citation generation, collaboration tools.\nmendeley.com\n\n\nDocear\nAn academic literature management tool that includes a mind-mapping feature.\nIntegrated literature management, mind-mapping, PDF annotation, reference organization.\ndocear.org\n\n\nPublish or Perish\nSoftware that retrieves and analyzes academic citations to provide various metrics.\nCitation analysis, various metrics (e.g., h-index, g-index), data export capabilities.\nharzing.com\n\n\nConnected Papers\nA tool for exploring and visualizing the relationships between research papers.\nGraph-based visualization, discovery of related papers, interactive exploration.\nconnectedpapers.com\n\n\n\nIn the next section, we will focus on the role of reliability of knowledge sources in research.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Literature Survey Process</span>"
+    ]
+  },
+  {
+    "objectID": "unit2.html#role-of-reliability-of-a-literature-source",
+    "href": "unit2.html#role-of-reliability-of-a-literature-source",
+    "title": "2  Literature Survey Process",
+    "section": "2.8 Role of Reliability of a Literature Source",
+    "text": "2.8 Role of Reliability of a Literature Source\nIn academic research, the reliability of a literature source plays a crucial role in determining the credibility and validity of the research outcomes. Reliability refers to the trustworthiness of the information, consistency in the presentation of facts, and adherence to scholarly standards. Using unreliable sources can lead to faulty assumptions, misinterpretations, and incorrect conclusions, which may invalidate research efforts.\nReliable literature sources often come from established and peer-reviewed journals, respected authors, and well-known publishers. They exhibit consistency across multiple studies, provide transparent data and methodologies, and typically withstand critical scrutiny by the academic community. Conversely, unreliable sources may contain biased, outdated, or inaccurate information, and lack proper references or peer review.\n\n2.8.1 Importance of Reliability in Literature Review\n\nSupporting Valid Research Findings: Reliable sources provide a strong foundation for supporting the claims and hypotheses of a research project. This enhances the rigor and acceptance of the research in scholarly communities.\nEstablishing Research Credibility: Citing reliable sources boosts the credibility of the research, leading to greater confidence in its outcomes.\nAvoiding Plagiarism and Misinformation: Unreliable sources may lead to unintentional plagiarism or reliance on incorrect information, which can severely undermine the integrity of the research.\n\nA mindmap for easy recollection is shown here:\n\n\n\n2.8.2 How to Identify Reliable Sources\n\nPeer-Reviewed Journals: Articles published in peer-reviewed journals are often more reliable, as they have undergone rigorous evaluation by experts.\nPublisher Reputation: Books or papers published by reputable academic institutions or publishers like Springer, Elsevier, or IEEE are generally considered reliable.\nCitations and References: Reliable sources often cite a broad range of previous work, which demonstrates thorough research and knowledge of the field.\nUpdated Information: Reliable sources contain up-to-date information and address current developments in the field.\nAuthor’s Credentials: The credibility and expertise of the author are significant indicators of the reliability of a source. Researchers with strong academic backgrounds are typically more trustworthy.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Literature Survey Process</span>"
+    ]
+  },
+  {
+    "objectID": "unit2.html#checking-the-authenticity-of-sources-using-open-source-tools",
+    "href": "unit2.html#checking-the-authenticity-of-sources-using-open-source-tools",
+    "title": "2  Literature Survey Process",
+    "section": "2.9 Checking the Authenticity of Sources Using Open Source Tools",
+    "text": "2.9 Checking the Authenticity of Sources Using Open Source Tools\nOpen-source tools can help researchers assess the authenticity and credibility of literature. Below are some tools that can be used for this purpose:\n\n2.9.1 Google Scholar Metrics\nGoogle Scholar provides citation counts, which indicate how many other researchers have cited a particular article. Highly cited works tend to be more reliable as they are often scrutinized and used by other researchers.\nHow to use: - Search for the article in Google Scholar. - Check the citation count and h-index of the journal where it is published. - Higher citations and reputable journal rankings generally indicate reliable sources.\n\n\n2.9.2 Scite\nScite is an open-source tool that helps verify how research papers have been cited. It provides context for citations, showing whether a paper has been supported, disputed, or mentioned neutrally. This allows researchers to assess whether the findings of a paper are widely accepted or contested.\nHow to use: - Enter the DOI of a research paper on the Scite platform. - Review how other researchers have cited the paper, including positive or critical evaluations.\nTbale of popular authenticity checking open sourse platforms.\n\n\n\nTool\nDescription\nWebsite\n\n\n\n\nGoogle Scholar Metrics\nProvides citation counts to indicate the number of times an article has been cited by other researchers.\nscholar.google.com\n\n\nScite\nVerifies how research papers have been cited, providing context for whether citations are supportive, disputed, or neutral.\nscite.ai\n\n\nUnpaywall\nProvides access to open-access versions of academic articles, ensuring authenticity and accessibility.\nunpaywall.org\n\n\nDimensions\nOffers citation analysis and journal impact information, providing insights into source credibility.\ndimensions.ai\n\n\nCrossRef\nProvides DOI lookup services to verify the legitimacy and publication details of articles and journals.\ncrossref.org\n\n\nOpenCitations\nProvides citation data from openly available sources to analyze citation networks and influence.\nopencitations.net\n\n\nPlagiarism Checkers\nTools for checking whether sources have been plagiarized or properly cited.\nturnitin.com / plagscan.com\n\n\n\n\n\n2.9.3 Unpaywall\nUnpaywall is a tool for accessing open-access versions of academic articles. It ensures that the literature you are citing is authentic and accessible from legitimate sources.\nHow to use: - Install the Unpaywall browser extension. - When browsing an article on a publisher’s page, Unpaywall will show if there’s a legal, free-to-read version of the paper available.\n\n\n2.9.4 Dimensions\nDimensions is a freely available research database offering insights into citation analysis and journal impact. It provides citation counts, journal ranks, and detailed information about the authors, allowing you to assess the credibility of a source.\nHow to use: - Search for a paper or author on the Dimensions platform. - Review citation metrics, journal impact scores, and other details to verify the reliability of the source.\n\n\n2.9.5 CrossRef\nCrossRef is a non-profit organization that provides DOI (Digital Object Identifier) lookup services. It allows researchers to verify the legitimacy and publication details of articles and journals.\nHow to use: - Enter the DOI on the CrossRef website to retrieve metadata about the article, including the publication date, journal, and author details. - Ensure the article is linked to a reliable journal or publisher.\n\n\n2.9.6 OpenCitations\nOpenCitations is a tool that provides citation data from openly available sources. Researchers can use it to check the citation network of a particular paper and its influence in the field.\nHow to use: - Search for the paper or author on OpenCitations. - Analyze the citation network to see how widely the paper has been cited and in what contexts.\n\n\n2.9.7 Plagiarism Checkers (Turnitin, Plagscan)\nWhile not entirely open-source, some plagiarism checkers have free or open-access features that can help verify whether a source has been plagiarized or if it has been properly cited.\nHow to use: - Submit a paper or excerpt to the plagiarism checker to identify any issues related to authenticity. - Ensure proper attribution to original sources by reviewing the generated report.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Literature Survey Process</span>"
+    ]
+  },
+  {
+    "objectID": "unit2.html#unit-summary",
+    "href": "unit2.html#unit-summary",
+    "title": "2  Literature Survey Process",
+    "section": "2.10 Unit summary",
+    "text": "2.10 Unit summary\nA literature review is a critical part of any research project, ensuring that the researcher builds on a foundation of existing knowledge. It allows the researcher to understand the current state of research, identify gaps, and position their work within the broader academic conversation.\n\n2.10.1 Importance of Literature Survey\nA literature survey is essential for establishing a comprehensive understanding of the topic. It helps researchers avoid duplication, build on previous work, and refine research questions by learning from others’ successes and mistakes. An effective literature review ensures that research is informed, relevant, and aligned with the current academic discourse.\n\n\n2.10.2 Planning a Literature Survey\nThe first step in planning a literature survey involves setting clear objectives. Researchers should begin by identifying their research problem or research question. Understanding the scope of the topic allows for focused exploration of the relevant literature. A well-planned review prevents the researcher from becoming overwhelmed by the vast amount of information available.\n\n\n2.10.3 Identifying Key Concepts and Keywords\nIdentifying key concepts and keywords is crucial for a successful literature search. These keywords stem from the research problem and are pivotal in locating relevant sources. By brainstorming, reviewing existing literature, and defining the key variables, researchers can generate a list of terms to use in search databases, increasing the efficiency and relevance of their search.\n\n\n2.10.4 Locating Relevant Literature\nOnce keywords are identified, researchers can use various academic databases like Google Scholar, IEEE Xplore, or PubMed to find relevant literature. A systematic approach to searching ensures that researchers locate the most pertinent articles, journals, and books for their work. Using advanced search options, citation networks, and reference lists can help in discovering high-quality sources.\n\n\n2.10.5 Reliability of Sources in Research\nThe reliability of literature sources is critical for ensuring credible and trustworthy research findings. Researchers should prioritize peer-reviewed journals, works from reputable authors and publishers, and sources with high citation counts. Open-source tools like Google Scholar Metrics, Scite, and Unpaywall can help verify the credibility and authenticity of sources. These tools offer citation data, access to free versions of papers, and insights into how the research has been received and cited by others in the academic community.\nUnit summary flowchart\n\n\n\nUnit Summary",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Literature Survey Process</span>"
+    ]
+  },
+  {
+    "objectID": "unit3.html",
+    "href": "unit3.html",
+    "title": "3  Research Design, Data Analysis, and Statistical Modelling",
+    "section": "",
+    "text": "3.1 Introduction\nThis unit introduces essential concepts for conducting experimental research, with a focus on problem formulation, modeling, simulation, data collection, and statistical analysis using R-software. The content equips engineering students with the knowledge to design and analyze experiments, interpret results, and apply statistical methodologies in real-world engineering projects.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Design, Data Analysis, and Statistical Modelling</span>"
+    ]
+  },
+  {
+    "objectID": "unit3.html#introduction",
+    "href": "unit3.html#introduction",
+    "title": "3  Research Design, Data Analysis, and Statistical Modelling",
+    "section": "",
+    "text": "Mindmap of the unit\n\n\n\n3.1.1 Problem Formulation\nIn engineering research, problem formulation is the foundation of any experiment or study. It involves defining the research objective, understanding system behavior, and identifying variables and constraints. Well-formulated problems lead to efficient experiment designs and meaningful conclusions.\nSteps in Problem Formulation:\n\nObjective Definition: Clearly state the purpose of the experiment or study.\nVariable Identification: Determine the dependent (response) and independent (input) variables.\nConstraints: List the practical and theoretical limitations (e.g., resources, physical conditions).\n\n\n\n3.1.2 Objective Definition\nTo begin with, the researcher needs to clearly define the objective of their study. A well-defined objective guides the entire research process and ensures that the study addresses specific questions effectively. For instance, consider a study aimed at evaluating the effectiveness of a new medication. The objective could be to determine whether this new medication significantly improves patient outcomes compared to a placebo. By setting a clear objective, researchers establish a focus that will help in setting precise goals, formulating hypotheses, and designing the experiment.\n\n\n\nMindmap on problem formulation.\n\n\n\n\n3.1.3 Variable Identification\nIdentifying variables is crucial for designing an effective experiment. Variables are classified into independent, dependent, and control categories. The independent variables are those that are manipulated by the researcher, while dependent variables are the outcomes measured in response to these manipulations. Control variables are kept constant to ensure that they do not affect the results.\nFor example, in a clinical trial investigating a new drug, the independent variable could be the dosage of the drug administered, the dependent variable could be the reduction in symptoms, and control variables might include factors like the age and gender of participants. By carefully identifying and controlling these variables, researchers can isolate the effects of the independent variables on the dependent variables.\n\n\n\nVariable Identification Steps\n\n\n\n\n3.1.4 Constraints\nConstraints are limitations that affect the research design and implementation. These could be related to budget, time, or resources. Identifying constraints helps researchers plan a feasible study and manage expectations realistically.\nFor instance, if a research project is constrained by a limited budget, it may be necessary to reduce the number of participants or simplify the experimental design. Similarly, time constraints might affect the duration of the study or the complexity of the data collection process. Understanding these constraints is essential for developing a practical research plan that can achieve meaningful results within the available resources.\n\n\n\nConstrains in Research\n\n\n\n\n3.1.5 Modelling & Simulation\n\n3.1.5.1 Mathematical Models\nMathematical models use mathematical equations to represent relationships between variables and predict outcomes. These models help in understanding complex systems and making quantitative predictions.\nFor example, a linear regression model might be used to study the effect of different drug dosages on blood pressure. In this case, the model would use an equation to describe the relationship between dosage (independent variable) and blood pressure (dependent variable). The results can provide insights into how varying dosages might affect blood pressure, helping researchers optimize treatment protocols.\n\n\n\nMathematical and Statistical Models\n\n\n\n\n3.1.5.2 Simulation Models\nSimulation models replicate real-world processes to predict outcomes under various scenarios. They allow researchers to test different conditions and understand how variables interact in a controlled environment.\nFor example, a Monte Carlo simulation might be used to assess the risk of different investment strategies. By running simulations with random variables representing market conditions, researchers can estimate the potential risks and returns of various investment options, helping investors make informed decisions based on simulated outcomes.\n\n\n\nSimulation Models",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Design, Data Analysis, and Statistical Modelling</span>"
+    ]
+  },
+  {
+    "objectID": "unit3.html#experimental-research",
+    "href": "unit3.html#experimental-research",
+    "title": "3  Research Design, Data Analysis, and Statistical Modelling",
+    "section": "3.2 Experimental Research",
+    "text": "3.2 Experimental Research\n\n3.2.1 Cause-Effect Relationship\nEstablishing a cause-effect relationship involves demonstrating that changes in one variable directly cause changes in another. This is achieved through controlled experiments where the independent variable is manipulated and the effects on the dependent variable are observed.\nFor example, in an experiment testing a new drug, researchers might manipulate the dosage of the drug (independent variable) and measure the resulting changes in patient health outcomes (dependent variable). By controlling other factors and observing the direct impact of the dosage on health outcomes, researchers can establish a causal link between the drug dosage and its effects.\n\n\n\nMindmap on Cause-effect relationship.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Design, Data Analysis, and Statistical Modelling</span>"
+    ]
+  },
+  {
+    "objectID": "unit3.html#hypothesis-development",
+    "href": "unit3.html#hypothesis-development",
+    "title": "3  Research Design, Data Analysis, and Statistical Modelling",
+    "section": "3.3 Hypothesis Development",
+    "text": "3.3 Hypothesis Development\n\n3.3.1 Null Hypothesis (H₀)\nThe null hypothesis (H₀) is a statement that assumes no effect or no difference between groups. It serves as the default assumption that researchers aim to test against.\nFor instance, in a clinical trial comparing two drugs, the null hypothesis might state, “There is no difference in blood pressure reduction between Drug A and Drug B.” Researchers then use statistical tests to determine if the observed data provides sufficient evidence to reject this null hypothesis.\n\n\n\n3.3.2 Alternative Hypothesis (H₁)\nThe alternative hypothesis (H₁) proposes that there is an effect or difference between groups. It reflects the researcher’s prediction or expectation.\nFor example, if researchers believe that Drug A will significantly reduce blood pressure more than Drug B, the alternative hypothesis might be, “Patients receiving Drug A will experience a greater reduction in blood pressure compared to those receiving Drug B.” This hypothesis is tested against the null hypothesis to evaluate the evidence for the predicted effect.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Design, Data Analysis, and Statistical Modelling</span>"
+    ]
+  },
+  {
+    "objectID": "unit3.html#measurement-systems-analysis",
+    "href": "unit3.html#measurement-systems-analysis",
+    "title": "3  Research Design, Data Analysis, and Statistical Modelling",
+    "section": "3.4 Measurement Systems Analysis",
+    "text": "3.4 Measurement Systems Analysis\n\n3.4.1 Repeatability\nRepeatability measures how consistently a measurement can be repeated under the same conditions. It indicates the reliability of the measurement process when performed by the same operator.\nFor example, if a technician repeatedly measures the weight of the same sample using a scale and obtains nearly identical readings each time, the measurement system demonstrates good repeatability. Ensuring high repeatability is crucial for reliable and consistent data collection.\n\n\n\nMindmap on Mesearment System Analysis.\n\n\n\n\n3.4.2 Reproducibility\nReproducibility assesses how consistently measurements can be obtained across different operators or settings. It evaluates whether different individuals or environments yield similar results.\nFor example, if different laboratories test the same sample and obtain comparable results, the measurement system shows high reproducibility. Reproducibility is important for validating that results are reliable and can be generalized across different conditions.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Design, Data Analysis, and Statistical Modelling</span>"
+    ]
+  },
+  {
+    "objectID": "unit3.html#error-propagation",
+    "href": "unit3.html#error-propagation",
+    "title": "3  Research Design, Data Analysis, and Statistical Modelling",
+    "section": "3.5 Error Propagation",
+    "text": "3.5 Error Propagation\n\n3.5.1 Systematic Errors\nSystematic errors are consistent and repeatable errors that affect the accuracy of measurements. They often stem from calibration issues or inherent biases in the measurement system.\nFor instance, if a weighing scale consistently reads 2 kg heavier than the actual weight due to a calibration error, all measurements will be affected by this systematic error. Identifying and correcting systematic errors is essential for accurate measurements.\n\n\n3.5.2 Random Errors\nRandom errors are unpredictable variations that affect the precision of measurements. These errors can result from environmental fluctuations or human factors and are less consistent than systematic errors.\nFor example, slight variations in temperature or measurement technique can introduce random errors into the data. While random errors cannot be completely eliminated, they can be minimized through careful measurement practices and statistical analysis.\n\n\n\nMindmap on error propagation in analysis.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Design, Data Analysis, and Statistical Modelling</span>"
+    ]
+  },
+  {
+    "objectID": "unit3.html#validity-of-experiments",
+    "href": "unit3.html#validity-of-experiments",
+    "title": "3  Research Design, Data Analysis, and Statistical Modelling",
+    "section": "3.6 Validity of Experiments",
+    "text": "3.6 Validity of Experiments",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Design, Data Analysis, and Statistical Modelling</span>"
+    ]
+  },
+  {
+    "objectID": "unit3.html#internal-validity",
+    "href": "unit3.html#internal-validity",
+    "title": "3  Research Design, Data Analysis, and Statistical Modelling",
+    "section": "3.7 Internal Validity",
+    "text": "3.7 Internal Validity\nInternal validity refers to the extent to which an experiment accurately measures the effect of the independent variable on the dependent variable, without interference from extraneous factors. High internal validity ensures that the observed effects are due to the manipulated variables alone.\nFor example, a clinical trial with rigorous control over participant selection and environmental conditions will have high internal validity, as it effectively isolates the effect of the drug from other variables.\n\n\n\nMindmap on Validity check of experimants.\n\n\n\n3.7.1 External Validity\nExternal validity is the degree to which the results of an experiment can be generalized to other settings, populations, or times. It assesses whether the findings are applicable beyond the specific conditions of the study.\nFor example, if a new teaching method is tested in a single school and shows positive results, its external validity would depend on whether similar effects are observed in other schools or educational settings.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Design, Data Analysis, and Statistical Modelling</span>"
+    ]
+  },
+  {
+    "objectID": "unit3.html#statistical-design-of-experiments",
+    "href": "unit3.html#statistical-design-of-experiments",
+    "title": "3  Research Design, Data Analysis, and Statistical Modelling",
+    "section": "3.8 Statistical Design of Experiments",
+    "text": "3.8 Statistical Design of Experiments\n\n3.8.1 Full Factorial Design\nFull factorial design examines all possible combinations of factors and their levels, providing comprehensive insights into the interactions between variables. This design is useful for understanding how multiple factors simultaneously affect the outcome.\nFor example, a full factorial design might explore how different levels of temperature and pressure affect the yield of a chemical reaction. By examining all possible combinations of these factors, researchers can determine their individual and interactive effects on the reaction yield.\n\n\n\nMindmap on Statistical Design.\n\n\n\n\n3.8.2 Fractional Factorial Design\nFractional factorial design involves testing only a subset of all possible combinations of factors. It is resource-efficient and suitable when dealing with a large number of variables, providing valuable information while reducing the number of experiments required.\nFor example, if studying the effects of five different factors on product quality, a fractional factorial design might select a subset of factor combinations to analyze, thereby saving time and resources while still yielding significant insights.\n\n\n3.8.3 Field Experiments\nField experiments are conducted in natural settings rather than controlled environments. They provide insights into how variables interact in real-world conditions, offering practical evidence of effectiveness.\nFor instance, a field experiment might test the impact of a new teaching method in a classroom setting. Researchers can observe how the method performs under everyday classroom conditions, providing valuable information about its real-world effectiveness.\n\n\n\nMindmap on field experiments.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Design, Data Analysis, and Statistical Modelling</span>"
+    ]
+  },
+  {
+    "objectID": "unit3.html#data-collection",
+    "href": "unit3.html#data-collection",
+    "title": "3  Research Design, Data Analysis, and Statistical Modelling",
+    "section": "3.9 Data Collection",
+    "text": "3.9 Data Collection\n\n3.9.1 Surveys\nSurveys involve gathering data through questionnaires or interviews, enabling researchers to collect information from a large number of participants. They are useful for exploring public opinions or behaviors.\nFor example, a public opinion survey might be conducted to gauge attitudes towards a new policy. By asking participants about their views and experiences, researchers can obtain a broad understanding of public sentiment and its implications for policy implementation.\n\n\n\nData collection stage.\n\n\n\n\n3.9.2 Sampling\nSampling is the process of selecting a subset of individuals from a larger population to make inferences about the entire group. Techniques include random sampling, stratified sampling, and systematic sampling.\nFor instance, random sampling might be used in a study to estimate election results. By surveying a randomly selected group of voters, researchers can infer the preferences of the entire voter population and predict the likely outcome of the election.\n\n\n3.9.3 Observation\nObservation involves systematically recording behaviors or phenomena as they occur. It can be structured or unstructured, depending on the research objectives.\nFor example, an observer might record consumer behavior in a store to understand shopping patterns. By noting the frequency and types of purchases, researchers can gain insights into consumer preferences and purchasing habits.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Design, Data Analysis, and Statistical Modelling</span>"
+    ]
+  },
+  {
+    "objectID": "unit3.html#datavariable-types-classification",
+    "href": "unit3.html#datavariable-types-classification",
+    "title": "3  Research Design, Data Analysis, and Statistical Modelling",
+    "section": "3.10 Data/Variable Types & Classification",
+    "text": "3.10 Data/Variable Types & Classification\n\n3.10.1 Quantitative Data\nQuantitative data consists of numerical values that can be measured and analyzed statistically. This type of data allows for mathematical analysis and comparisons, such as calculating averages or performing regression analysis.\nFor example, data on student test scores is quantitative. Researchers can use this data to compute the average score, assess the distribution of scores, and analyze correlations between test performance and other factors, such as study habits.\n\n\n\nMindmap for Data/ Variable Types and Classification\n\n\n\n\n3.10.2 Qualitative Data\nQualitative data comprises non-numerical information that describes qualities or characteristics. It provides rich, descriptive insights into phenomena that are not easily quantified.\nFor example, interview responses about job satisfaction are qualitative. Researchers analyze these responses to identify themes and patterns in employees’ experiences and opinions, offering a deeper understanding of job satisfaction beyond numerical ratings.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Design, Data Analysis, and Statistical Modelling</span>"
+    ]
+  },
+  {
+    "objectID": "unit3.html#numerical-graphical-data-analysis",
+    "href": "unit3.html#numerical-graphical-data-analysis",
+    "title": "3  Research Design, Data Analysis, and Statistical Modelling",
+    "section": "3.11 Numerical & Graphical Data Analysis",
+    "text": "3.11 Numerical & Graphical Data Analysis\n\n3.11.1 Descriptive Statistics\nDescriptive statistics summarize and describe the main features of a dataset. Key measures include mean, median, mode, variance, and standard deviation.\nFor example, descriptive statistics might be used to summarize survey responses on job satisfaction. By calculating the mean and standard deviation of satisfaction ratings, researchers can understand the central tendency and variability in employees’ satisfaction levels.\n\n\n\nMindmap on Numerical and Graphical Data Analysis.\n\n\n\n\n3.11.2 Graphical Analysis\nGraphical analysis involves visualizing data through plots and charts to identify patterns, trends, and outliers.\nFor example, a scatter plot might be used to explore the relationship between study hours and test scores. By plotting individual data points, researchers can visually assess whether more study hours are associated with higher test scores and identify any outliers in the data.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Design, Data Analysis, and Statistical Modelling</span>"
+    ]
+  },
+  {
+    "objectID": "unit3.html#inferential-statistics-interpretation-of-results",
+    "href": "unit3.html#inferential-statistics-interpretation-of-results",
+    "title": "3  Research Design, Data Analysis, and Statistical Modelling",
+    "section": "3.12 Inferential Statistics & Interpretation of Results",
+    "text": "3.12 Inferential Statistics & Interpretation of Results\nInferential statistics allow researchers to make generalizations about a population based on sample data. Techniques include hypothesis testing, confidence intervals, and regression analysis.\nFor example, researchers might use hypothesis testing to determine whether there is a significant difference in test scores between two teaching methods. By analyzing the data and calculating p-values, they can draw conclusions about the effectiveness of the teaching methods and their generalizability to other settings Knuth (1984).\n\n\n\nInferencial Analysis.\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Design, Data Analysis, and Statistical Modelling</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "4  Publication Ethics and Standards",
+    "section": "",
+    "text": "4.1 Importance of Publication Ethics",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Publication Ethics and Standards</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#importance-of-publication-ethics",
+    "href": "summary.html#importance-of-publication-ethics",
+    "title": "4  Publication Ethics and Standards",
+    "section": "",
+    "text": "4.1.1 Understanding Publication Ethics\nPublication ethics involves principles that guide the responsible, honest, and transparent sharing of research findings. Adhering to ethical guidelines safeguards the credibility of scientific literature, ensures public trust, and upholds researchers’ accountability.\nExample: Researchers at a public university must disclose funding sources and any potential conflicts of interest to prevent bias. Failing to do so can result in a retraction if the findings are later questioned.\n\n\n4.1.2 Role of Ethical Guidelines in Credibility\nEthical guidelines, like those provided by COPE (Committee on Publication Ethics) and ICMJE (International Committee of Medical Journal Editors), prevent issues such as duplicate publications, selective reporting, and biased interpretations. These guidelines encourage transparent practices that ensure research credibility.\nCase Study Example: A medical study on a new drug follows COPE guidelines for transparent disclosure, including funding and methodology. This transparency allows peers to verify the findings, strengthening the study’s credibility.\n\n\n4.1.3 Consequences of Unethical Publication Practices\nUnethical practices, including plagiarism, falsification, or failure to disclose conflicts of interest, can lead to retraction, reputational damage, and diminished trust from the public and scientific community.\nExample: A high-profile academic paper is retracted due to plagiarism, harming the author’s reputation and highlighting the importance of giving credit to others’ contributions.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Publication Ethics and Standards</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#best-practices-standards-and-guidance-for-ethical-publication",
+    "href": "summary.html#best-practices-standards-and-guidance-for-ethical-publication",
+    "title": "4  Publication Ethics and Standards",
+    "section": "4.2 Best Practices, Standards, and Guidance for Ethical Publication",
+    "text": "4.2 Best Practices, Standards, and Guidance for Ethical Publication\n\n4.2.1 Overview of Best Practices\nBest practices in publication ethics include accurate reporting, thorough peer review, proper citation, acknowledgment of contributions, and transparent disclosure. These practices help prevent issues like fabrication and redundant publication.\nCase Study: A study on AI ethics transparently details each contributor’s role, adheres to publication standards, and uses proper citations for prior research. By following best practices, the study maintains high ethical standards.\n\n\n4.2.2 Guidelines for Ethical Conduct in Publication\nOrganizations like COPE and ICMJE provide protocols for ethical conduct. These cover areas like handling complaints, authorship guidelines, conflicts of interest, and data transparency.\nExample: A journal uses COPE guidelines to address a conflict of interest complaint, reviewing the authors’ disclosures and deciding on the next steps to ensure fairness.\n\n\n4.2.3 Role of Institutional and International Standards\nUniversities and journals enforce institutional protocols to uphold publication standards. Familiarity with both institutional and international standards helps researchers avoid ethical missteps and ensures accountability.\nCase Study: A university’s policy mandates five-year data retention for all published studies, ensuring that findings can be reviewed if questions arise.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Publication Ethics and Standards</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#conflicts-of-interest-in-research-and-publication",
+    "href": "summary.html#conflicts-of-interest-in-research-and-publication",
+    "title": "4  Publication Ethics and Standards",
+    "section": "4.3 Conflicts of Interest in Research and Publication",
+    "text": "4.3 Conflicts of Interest in Research and Publication\n\n4.3.1 Identifying Conflicts of Interest\nA conflict of interest (COI) arises when a researcher’s personal, financial, or professional interests could bias their work. Recognizing and managing COIs helps protect research objectivity.\nCase Study: A researcher investigating the efficacy of a drug receives funding from the drug’s manufacturer, creating a potential COI that must be disclosed to allow transparent evaluation of the findings.\n\n\n4.3.2 Managing and Disclosing Conflicts\nEthical guidelines mandate that researchers disclose any potential conflicts to maintain transparency and ensure unbiased peer review.\nExample: A professor with equity in a tech company studying a relevant technology discloses this COI when submitting a research paper, allowing reviewers to assess potential biases.\n\n\n4.3.3 Impact of Conflicts of Interest on Research Integrity\nFailing to manage COIs can harm the integrity of research and public trust, as undisclosed COIs may lead readers to question the study’s objectivity.\nCase Study: A paper that downplays risks associated with a new technology is later discovered to have undisclosed financial ties, damaging the authors’ and the study’s reputations.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Publication Ethics and Standards</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#misconduct-in-publication",
+    "href": "summary.html#misconduct-in-publication",
+    "title": "4  Publication Ethics and Standards",
+    "section": "4.4 Misconduct in Publication",
+    "text": "4.4 Misconduct in Publication\n\n4.4.1 Understanding Publication Misconduct\nPublication misconduct includes plagiarism, data fabrication, falsification, and improper authorship. These actions violate research integrity and damage the credibility of scientific work.\nExample: Submitting the same manuscript to multiple journals without informing them constitutes misconduct. Duplicate submissions waste reviewers’ time and may lead to sanctions.\n\n\n4.4.2 Types of Publication Misconduct\n\nPlagiarism: Using others’ work without credit. Can be intentional (copying text) or accidental (poor paraphrasing).\nFalsification: Altering data or research processes to mislead.\nFabrication: Creating data or results that don’t exist.\n\nCase Studies: - Plagiarism: A researcher copies sections of another study without citation, leading to a retraction and ethical sanctions. - Falsification: An author adjusts raw data to make results seem more favorable. When peers review the raw data, the falsification is exposed. - Fabrication: A study on environmental impacts includes fabricated data to support claims. Upon investigation, the lack of original data leads to a retraction.\n\n\n4.4.3 Impact of Misconduct on Scientific Community\nMisconduct erodes trust within the scientific community and the public, impacting the reliability of scientific knowledge.\nCase Study: A major paper is retracted due to data fabrication, sparking scrutiny of other studies by the same lab and affecting the reputation of all involved.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Publication Ethics and Standards</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#problems-leading-to-unethical-behavior",
+    "href": "summary.html#problems-leading-to-unethical-behavior",
+    "title": "4  Publication Ethics and Standards",
+    "section": "4.5 Problems Leading to Unethical Behavior",
+    "text": "4.5 Problems Leading to Unethical Behavior\n\n4.5.1 Pressure to Publish\nResearchers under pressure to meet academic or funding milestones may engage in misconduct, such as duplicate publication or selective reporting, to increase their publication count.\nExample: A young researcher, eager to publish, splits the results of a single study across multiple papers (salami slicing), resulting in ethical scrutiny and rejections.\n\n\n4.5.2 Lack of Awareness of Ethical Guidelines\nNew researchers may lack familiarity with publication standards, leading to unintentional ethical violations. Training on ethical guidelines is essential to prevent such issues.\nCase Study: A graduate student plagiarizes parts of a literature review, unaware of citation requirements. The university addresses the issue with educational resources on research ethics.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Publication Ethics and Standards</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#violations-of-publication-ethics-authorship-and-contributorship-issues",
+    "href": "summary.html#violations-of-publication-ethics-authorship-and-contributorship-issues",
+    "title": "4  Publication Ethics and Standards",
+    "section": "4.6 Violations of Publication Ethics: Authorship and Contributorship Issues",
+    "text": "4.6 Violations of Publication Ethics: Authorship and Contributorship Issues\n\n4.6.1 Issues with Authorship and Contributorship\nEthical publication requires only those who contribute substantially to be credited as authors. Issues such as ghost authorship (uncredited significant contributors) and honorary authorship (credit without contribution) are unethical.\nExample: A senior researcher requests authorship on a paper despite minimal involvement, causing disputes over fair attribution.\n\n\n4.6.2 Managing Authorship Disputes\nTo prevent disputes, it’s important to establish clear criteria for authorship and contributorship from the beginning. Guidelines such as the ICMJE criteria can help.\nCase Study: A large interdisciplinary project lists each author’s role and contributions, avoiding conflicts and enhancing transparency.\n\n\n4.6.3 Resolving Authorship and Contributorship Violations\nJournals and institutions often address authorship violations by issuing retractions or corrections, and by involving ethics committees in serious cases.\nExample: A journal issues a correction when it’s discovered that a significant contributor was omitted from authorship.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Publication Ethics and Standards</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#identifying-and-addressing-publication-misconduct",
+    "href": "summary.html#identifying-and-addressing-publication-misconduct",
+    "title": "4  Publication Ethics and Standards",
+    "section": "4.7 Identifying and Addressing Publication Misconduct",
+    "text": "4.7 Identifying and Addressing Publication Misconduct\n\n4.7.1 Methods for Identifying Misconduct\nAdvanced tools (like iThenticate for plagiarism detection) and peer reviews help identify misconduct such as plagiarism, data fabrication, and conflicts of interest.\nExample: A journal detects plagiarism in a submission through software screening, alerting the authors to revise the manuscript for proper citations.\n\n\n4.7.2 Handling Complaints and Appeals\nEthical procedures allow for complaints to be addressed fairly. Authors accused of misconduct can appeal decisions, ensuring due process.\nCase Study: An author appeals a rejection for alleged plagiarism, arguing that the similar text was their own earlier work. The journal investigates and accepts the appeal, confirming the author’s claim.\n\n\n4.7.3 Steps for Addressing Proven Misconduct\nConfirmed misconduct may result in actions such as retractions, corrections, or sanctions. Consequences may extend to institutional sanctions, like suspension or funding restrictions.\nExample: A researcher found guilty of data falsification is suspended from publishing in certain journals for two years, demonstrating the serious consequences of ethical violations.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Publication Ethics and Standards</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
