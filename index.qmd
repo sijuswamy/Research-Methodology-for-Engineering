@@ -1,0 +1,24 @@
+# Preface {.unnumbered}
+
+
+![](preface.png)
+
+This course, developed by the Amrita School of Artificial Intelligence, supports research scholars at Amrita Campus by providing a comprehensive approach to conducting high-quality research. The course consists of four core units, guiding students from research conceptualization to ethical considerations in scholarly work.
+
+## Unit 1: The Research Process
+- Introduces the research process, including formulating research questions, research design, and selecting appropriate approaches (Quantitative vs. Qualitative, Exploratory vs. Confirmatory, Experimental vs. Theoretical).
+- Emphasizes the importance of reasoning and model validation in research.
+
+## Unit 2: Literature Survey
+- Focuses on the importance of literature surveys, planning literature searches, identifying key concepts, and evaluating source reliability.
+- Equips scholars with strategies for locating relevant literature to contextualize their research.
+
+## Unit 3: Problem Formulation and Data Analysis
+- Covers experimental research, hypothesis development, causality, error analysis, and statistical design of experiments.
+- Includes hands-on training with R software for statistical analysis, sampling, surveys, and interpretation of results.
+
+## Unit 4: Philosophy and Ethics in Research
+- Introduces philosophy and ethics, focusing on moral philosophy, intellectual honesty, research integrity, and scientific misconduct (e.g., plagiarism, falsification).
+- Discusses publication ethics, conflicts of interest, and best practices for ensuring ethical conduct in research.
+
+By the end of the course, scholars will be equipped with both the practical skills and ethical principles necessary for conducting impactful, responsible research.

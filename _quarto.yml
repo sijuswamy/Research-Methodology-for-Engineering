@@ -1,0 +1,30 @@
+project:
+  type: book
+
+book:
+  title: "Research Methodology for Engineering"
+  author: "Center for Computational Engineering and Networking"
+  date: "23 August, 2024"
+  search: true
+  repo-url: https://github.com/sijuswamy/Computational-Linear-Algebra
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook]
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - unit2.qmd
+    - unit3.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+margin-header: |
+  ![School of Artificial Intelligence](logo.png)
+
+
