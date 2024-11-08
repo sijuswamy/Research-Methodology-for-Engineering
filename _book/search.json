@@ -4,9 +4,9 @@
     "href": "index.html",
     "title": "Research Methodology for Engineering",
     "section": "",
-    "text": "Preface\nThis course, developed by the Amrita School of Artificial Intelligence, supports research scholars at Amrita Campus by providing a comprehensive approach to conducting high-quality research. The course consists of four core units, guiding students from research conceptualization to ethical considerations in scholarly work.",
+    "text": "Acknowledgment\nThis course material has been developed based on lectures delivered by eminent professors from the Department of Computer Science, Amrita Vishwa Vidyapeetham, Coimbatore. We are deeply grateful to Dr. Sethumadhavan, Dr. Shanmuga Velayutham C, Dr. Srinivasan C, and Professor Emeritus Dr. Sundararajan for their invaluable insights and expertise, which have greatly enriched this content. Their teachings and mentorship have been instrumental in shaping this guide for research scholars.",
     "crumbs": [
-      "Preface"
+      "Acknowledgment"
     ]
   },
   {
@@ -16,7 +16,7 @@
     "section": "Unit 1: The Research Process",
     "text": "Unit 1: The Research Process\n\nIntroduces the research process, including formulating research questions, research design, and selecting appropriate approaches (Quantitative vs. Qualitative, Exploratory vs. Confirmatory, Experimental vs. Theoretical).\nEmphasizes the importance of reasoning and model validation in research.",
     "crumbs": [
-      "Preface"
+      "Acknowledgment"
     ]
   },
   {
@@ -26,7 +26,7 @@
     "section": "Unit 2: Literature Survey",
     "text": "Unit 2: Literature Survey\n\nFocuses on the importance of literature surveys, planning literature searches, identifying key concepts, and evaluating source reliability.\nEquips scholars with strategies for locating relevant literature to contextualize their research.",
     "crumbs": [
-      "Preface"
+      "Acknowledgment"
     ]
   },
   {
@@ -36,7 +36,7 @@
     "section": "Unit 3: Problem Formulation and Data Analysis",
     "text": "Unit 3: Problem Formulation and Data Analysis\n\nCovers experimental research, hypothesis development, causality, error analysis, and statistical design of experiments.\nIncludes hands-on training with R software for statistical analysis, sampling, surveys, and interpretation of results.",
     "crumbs": [
-      "Preface"
+      "Acknowledgment"
     ]
   },
   {
@@ -46,7 +46,7 @@
     "section": "Unit 4: Philosophy and Ethics in Research",
     "text": "Unit 4: Philosophy and Ethics in Research\n\nIntroduces philosophy and ethics, focusing on moral philosophy, intellectual honesty, research integrity, and scientific misconduct (e.g., plagiarism, falsification).\nDiscusses publication ethics, conflicts of interest, and best practices for ensuring ethical conduct in research.\n\nBy the end of the course, scholars will be equipped with both the practical skills and ethical principles necessary for conducting impactful, responsible research.",
     "crumbs": [
-      "Preface"
+      "Acknowledgment"
     ]
   },
   {
@@ -487,6 +487,26 @@
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "References"
+    ]
+  },
+  {
+    "objectID": "ackno.html",
+    "href": "ackno.html",
+    "title": "1  Research Scholars’ Guide to Conducting Ethical and Rigorous Research",
+    "section": "",
+    "text": "2 Acknowledgment\nThis course material has been developed based on lectures delivered by eminent professors from the Department of Computer Science, Amrita Vishwa Vidyapeetham, Coimbatore. We are deeply grateful to Dr. Sethumadhavan, Dr. Shanmuga Velayutham C, Dr. Srinivasan C, and Professor Emeritus Dr. Sundararajan for their invaluable insights and expertise, which have greatly enriched this content. Their teachings and mentorship have been instrumental in shaping this guide for research scholars.\n\n\n3 Disclaimer\nThis content is intended solely for educational purposes and is developed with due respect and attribution to the original speakers. The material will not be used for commercial purposes, and any references to the content will properly acknowledge the contributions of the esteemed professors mentioned above. The purpose of this material is to support the academic and ethical growth of research scholars at Amrita Vishwa Vidyapeetham.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Research Scholars' Guide to Conducting Ethical and Rigorous Research</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#disclaimer",
+    "href": "index.html#disclaimer",
+    "title": "Research Methodology for Engineering",
+    "section": "Disclaimer",
+    "text": "Disclaimer\nThis content is intended solely for educational purposes and is developed with due respect and attribution to the original speakers. The material will not be used for commercial purposes, and any references to the content will properly acknowledge the contributions of the esteemed professors mentioned above. The purpose of this material is to support the academic and ethical growth of research scholars at Amrita Vishwa Vidyapeetham.",
+    "crumbs": [
+      "Acknowledgment"
     ]
   }
 ]
