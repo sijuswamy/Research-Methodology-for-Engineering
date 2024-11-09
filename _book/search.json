@@ -10,6 +10,16 @@
     ]
   },
   {
+    "objectID": "index.html#disclaimer",
+    "href": "index.html#disclaimer",
+    "title": "Research Methodology for Engineering",
+    "section": "Disclaimer",
+    "text": "Disclaimer\nThis content is intended solely for educational purposes and is developed with due respect and attribution to the original speakers. The material will not be used for commercial purposes, and any references to the content will properly acknowledge the contributions of the esteemed professors mentioned above. The purpose of this material is to support the academic and ethical growth of research scholars at Amrita Vishwa Vidyapeetham.",
+    "crumbs": [
+      "Acknowledgment"
+    ]
+  },
+  {
     "objectID": "index.html#unit-1-the-research-process",
     "href": "index.html#unit-1-the-research-process",
     "title": "Research Methodology for Engineering",
@@ -487,26 +497,6 @@
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "References"
-    ]
-  },
-  {
-    "objectID": "ackno.html",
-    "href": "ackno.html",
-    "title": "1  Research Scholars’ Guide to Conducting Ethical and Rigorous Research",
-    "section": "",
-    "text": "2 Acknowledgment\nThis course material has been developed based on lectures delivered by eminent professors from the Department of Computer Science, Amrita Vishwa Vidyapeetham, Coimbatore. We are deeply grateful to Dr. Sethumadhavan, Dr. Shanmuga Velayutham C, Dr. Srinivasan C, and Professor Emeritus Dr. Sundararajan for their invaluable insights and expertise, which have greatly enriched this content. Their teachings and mentorship have been instrumental in shaping this guide for research scholars.\n\n\n3 Disclaimer\nThis content is intended solely for educational purposes and is developed with due respect and attribution to the original speakers. The material will not be used for commercial purposes, and any references to the content will properly acknowledge the contributions of the esteemed professors mentioned above. The purpose of this material is to support the academic and ethical growth of research scholars at Amrita Vishwa Vidyapeetham.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Research Scholars' Guide to Conducting Ethical and Rigorous Research</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#disclaimer",
-    "href": "index.html#disclaimer",
-    "title": "Research Methodology for Engineering",
-    "section": "Disclaimer",
-    "text": "Disclaimer\nThis content is intended solely for educational purposes and is developed with due respect and attribution to the original speakers. The material will not be used for commercial purposes, and any references to the content will properly acknowledge the contributions of the esteemed professors mentioned above. The purpose of this material is to support the academic and ethical growth of research scholars at Amrita Vishwa Vidyapeetham.",
-    "crumbs": [
-      "Acknowledgment"
     ]
   }
 ]

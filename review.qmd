@@ -1,0 +1,452 @@
+---
+title: "Review Section"
+author: "Research Methodology for Engineering"
+---
+
+## Review questions
+
+### 1. What is plagiarism? Explain the role of literature review in preventing and detecting plagiarism.
+
+*Plagiarism* is the unauthorized use of another’s work or ideas without proper attribution, violating academic integrity.
+
+*Role of Literature Review*:
+- Familiarizes researchers with existing research, aiding accurate attribution.
+
+- Enhances citation practices, helping to avoid unintentional plagiarism.
+
+- Improves skills in paraphrasing and summarization.
+
+- Highlights research gaps, encouraging original contributions.
+
+- Encourages the use of plagiarism-detection tools, promoting ethical research.
+
+---
+
+### 2. Explain the criteria for selecting a viable research problem. Discuss challenges researchers may face during formulation and strategies to overcome them.
+
+>Criteria for Selecting a Viable Research Problem
+
+1. *Relevance*: Addresses a real need or gap, contributing to current knowledge.
+2. *Originality*: Provides a fresh perspective or innovative approach.
+3. *Feasibility*: Realistic within time, resources, and expertise available.
+4. *Specificity and Focus*: Clearly defined and narrow in scope.
+5. *Ethical Acceptability*: Aligns with ethical guidelines.
+6. *Significance*: Holds theoretical or practical value with broader impact.
+
+
+> Challenges:
+
+- *Ambiguity in problem definition*: Address by starting broad, then refining.
+- *Limited resources*: Plan research within available budget and time.
+- *Literature overload*: Focus on recent, high-quality sources.
+
+*Strategies*:
+- Break down the problem into smaller, manageable questions.
+- Seek feedback from mentors or peers.
+- Use systematic review techniques to manage and organize literature.
+
+---
+
+### 3. How is authorship credited if two people work on a similar topic and publish jointly, but most of the work is done by one person?
+
+- *Authorship* should reflect contributions. The person who contributed more may be listed as the first author.
+- *Acknowledgments* can note specific contributions, ensuring transparency and fairness.
+
+---
+
+### 4. What is the format for in-text citation and bibliographic item in APA style?
+
+- *In-Text Citation*: (Author’s Last Name, Year)  
+  Example: (Smith, 2023).
+
+- *Reference List Entry*: Author’s Last Name, First Initial. (Year). Title of the work. Publisher.  
+  Example: Smith, J. (2023). *Research Basics*. Academic Press.
+
+---
+
+### 5. What is DOI?
+
+A *DOI* (Digital Object Identifier) is a unique alphanumeric string assigned to publications to enable reliable digital access. It identifies and links electronic articles.
+
+---
+
+### 6. Difference between patented products and research output?
+
+- *Patented Product*: Legally protected innovation with potential commercial application.
+- *Research Output*: Scholarly work adding to knowledge, typically without legal protection unless patented.
+
+---
+
+### 7. What is the role of editors in a journal?
+
+Editors manage the review process, ensure quality control, maintain ethical standards, guide revisions, and make publication decisions, all of which uphold the journal’s credibility.
+
+---
+
+### 8. What is the impact factor of a journal, and how do I find it?
+
+- *Impact Factor*: Measures a journal’s average citation count per article, indicating its influence.
+- *Finding Impact Factor*: Check journal websites, use Web of Science, or visit the publisher’s page.
+
+---
+
+### 9. What is the H5-index and H5-median on Google Scholar?
+
+- *H5-index*: Reflects the number of articles with at least five citations in the past five years.
+- *H5-median*: Shows the median citation count of articles in the H5-index, giving insight into citation distribution.
+
+---
+
+### 10. What is an author’s H-index?
+
+An *H-index* quantifies an author’s productivity and citation impact, where an author has `h` articles each cited at least `h` times, indicating sustained research influence.
+
+---
+
+### 11. Differentiate between a Broad Research Topic and a Well-Defined Research Problem. Explain the steps to narrow down to a research problem with an example.
+
+*Broad Research Topic*:
+- A general area of interest that sets the research direction but lacks specific objectives.
+  - *Example*: "Impacts of social media on mental health" covers various aspects like platforms, demographics, and mental health outcomes.
+
+*Well-Defined Research Problem*:
+- A focused, specific issue that the research aims to address, providing clear boundaries.
+  - *Example*: "How does daily Instagram usage affect anxiety levels among college students?" This question specifies the platform (Instagram), target group (college students), and mental health aspect (anxiety).
+
+> Steps to Narrow Down a Broad Topic to a Research Problem
+
+1. *Identify a Broad Interest Area*:
+   - Choose an area aligned with academic, professional, or societal needs.
+   - *Example*: "Social media and mental health."
+
+2. *Conduct Preliminary Literature Review*:
+   - Examine current research trends and gaps to identify specific areas within the topic.
+   - *Example Finding*: Limited studies on how specific platforms influence specific mental health issues.
+
+3. *Refine the Focus*:
+   - Narrow to a subgroup, context, or specific variable to create a targeted scope.
+   - *Example*: Focusing on Instagram usage's impact on anxiety in a specific demographic.
+
+4. *Formulate the Research Problem*:
+   - Draft a research question that highlights the core issue and the population involved.
+   - *Final Example*: "What is the relationship between daily Instagram usage and anxiety levels among college students?"
+
+---
+
+### 12.  Discuss the ethical issues involved in the scenario where a former student’s data is used without permission.
+
+*Solution*:
+
+- *Ownership of Data*:  
+  The primary ethical issue is data ownership. The former student has rights over their data, and using it without permission violates ethical standards. Failing to obtain consent infringes upon the former student's intellectual and proprietary rights over their own research contributions.
+
+- *Informed Consent*:  
+  Ethical research mandates informed consent from all contributors. The co-authors should have explicitly sought permission from the former student before utilizing their data. Obtaining consent ensures transparency and maintains trust among collaborators.
+
+- *Integrity of Research*:  
+  Using data without proper authorization can compromise the research's integrity, raising doubts about the credibility and validity of the findings. Ethical lapses in data use can lead to the research being scrutinized or dismissed by peers.
+
+- *Consequences of Misconduct*:  
+  If the former student denies permission to use the data, the authors face an ethical decision. They must either honor the student's decision and seek alternative data sources or risk repercussions, which may include damage to their professional reputations and potential academic consequences.
+---
+
+### 13. Throughout this course you have been repeatedly asked about the importance of interpreting the findings of your research study. Explain why this is an essential element of high-quality research work.
+
+*Solution*:
+
+Interpreting research findings is a critical element in high-quality research because it:
+
+- *Ensures Contextual Understanding*: Proper interpretation allows researchers to place their findings within the broader context of existing literature and theories, linking their work to prior research and advancing the field.
+
+- *Draws Meaningful Conclusions*: Interpretation transforms raw data into actionable insights. It helps in identifying patterns, trends, and relationships that lead to meaningful conclusions and recommendations.
+
+- *Validates the Hypothesis*: It helps determine whether the findings support or contradict the original hypothesis, providing a clear understanding of the research question.
+
+- *Enhances Credibility*: Transparent and rigorous interpretation demonstrates the researcher’s competence, ensuring the research is credible and trustworthy.
+
+- *Guides Future Research*: A clear interpretation of findings highlights gaps, limitations, and potential directions for future research, contributing to the scientific discourse.
+
+---
+
+### 14. In a literature survey, a researcher includes a paragraph from another work as running text without using in-text citation but instead puts (see the work of ...) in brackets. Is this plagiarism? If so, what is the right way to correct this misconduct?
+
+**Solution**:
+
+Yes, this is considered **plagiarism**. Plagiarism occurs when another researcher’s work, ideas, or words are used without proper attribution, regardless of whether the author intends to claim the work as their own. Simply placing a reference in brackets like "(see the work of ...)" does not satisfy the ethical requirement of citation. This is not a valid method of citing someone else's work, and it misrepresents the origin of the ideas or text.
+
+> Corrective Steps:
+
+To correct this misconduct, the researcher should:
+
+- **Properly Attribute the Source**: The correct way to cite the paragraph would be to explicitly include the appropriate in-text citation, such as (Author, Year), where "Author" is the last name of the original author and "Year" is the year of publication.
+  
+- **Use Direct Quotation for Exact Text**: If the text is directly quoted, it must be placed in quotation marks and followed by the proper citation. For example:  
+  > "Exact text from the original work" (Author, Year).
+
+- **Paraphrase and Cite**: If the researcher paraphrases the idea or findings from the original work, they must still provide an in-text citation, e.g., (Author, Year), to acknowledge the source of the ideas.
+---
+
+### 15. If a literature survey misconduct, such as failing to properly cite a source, is considered a serious issue under the university's code of conduct and leads to the cancellation of registration, should this misconduct be forgivable, or as a dean, should the person be required to reapply for the program?
+
+**Solution**:
+
+As a dean, the decision about whether the misconduct is forgivable or whether the student should reapply for the program should be carefully considered, taking into account the severity of the misconduct and the broader context. 
+
+>Factors to Consider:
+
+1. **Intent and Acknowledgement**:
+   - *Unintentional Mistake*: If the student can demonstrate that the failure to cite correctly was an honest mistake or misunderstanding of citation practices, and they acknowledge this, it could be treated as a learning opportunity. In such cases, a corrective action, such as re-taking academic integrity training or re-submitting the work with proper citations, could be considered.
+
+   - *Deliberate Misconduct*: If the student knowingly plagiarized or attempted to deceive, this is a more serious violation. Academic integrity violations of this nature can compromise the reputation of the university and the student’s academic standing.
+
+2. **Pattern of Behavior**:
+   - If this is a *first-time offense* and there is no history of similar misconduct, there might be grounds for allowing the student to reapply, provided they demonstrate genuine remorse and a willingness to learn from the incident.
+
+   - A *repeated offense* or a pattern of academic dishonesty would suggest that the student has not taken the university’s code of conduct seriously, and in such cases, stricter actions, including requiring them to reapply, may be necessary.
+
+3. **University Code of Conduct**:
+   - The university's *code of conduct* should clearly outline the consequences of academic misconduct. If the code specifies that a violation of this nature leads to registration cancellation, then it is important to follow the rules, while still considering the possibility of remedial actions to help the student.
+   
+4. **Educational Opportunity**:
+   - If the student is willing to accept responsibility, undergo corrective measures, and demonstrate a commitment to academic integrity moving forward, the option to *reapply for the program* may be a reasonable one, allowing the student to learn from the mistake and return with a better understanding of the university's expectations.
+
+> *Recommendation:*
+If the misconduct is considered serious but not entirely malicious, *forgiveness with conditions* could be an option. This could include allowing the student to *reapply* after a specified time period, provided they complete educational modules on academic integrity, and submit a reformed research proposal with proper citation. However, if the misconduct reflects a more profound disregard for academic norms, then *reapplication* may be necessary to ensure that the student fully understands the gravity of the issue and the university's commitment to academic integrity.
+
+---
+
+### 16. Two PhD students working under the same supervisor have similar work. One drafts a paper and asks the other to revise it. The supervisor approves, and the paper gets accepted at a conference. It appears in both students' PhD theses. Is this responsible conduct? What action would you take as the Dean? Is the supervisor irresponsible?
+
+**Solution:**
+
+>Ethical Issues:
+
+1. *Authorship Misrepresentation*: The second student did most of the work, but both students were listed as co-authors. According to the APS Code of Conduct, authorship should reflect substantial intellectual contribution. The first student should not be a co-author unless they significantly contributed to the paper beyond the initial draft.
+
+2. *Supervisor's Responsibility*: The supervisor's role is to ensure *proper credit* is given to all contributors. In this case, the supervisor failed to ensure proper authorship distribution, potentially misrepresenting the contributions and undermining academic integrity.
+
+3. *Academic Integrity*: Using the same paper for both students' theses raises concerns of *redundant publication*. This can be seen as misleading since both students are claiming the same work as part of their independent research.
+
+> Actions as Dean:
+
+1. *Investigate* the contributions of both students and the supervisor’s involvement in the authorship decision.
+
+2. *Correct authorship*: The second student should be credited as the primary author, with the first student acknowledged in the acknowledgment section, if applicable.
+
+3. *Counsel the supervisor* about their responsibility in ensuring fair authorship and proper attribution.
+
+4. *Review the theses* to ensure that no redundant publication is claimed, and take necessary corrective action if required.
+---
+
+### 17. Two PhD students working under the same supervisor have similar work. One drafts a paper based on an exercise from an external source with some original contribution. Due to time constraints, he/she ask the other to revise it. The supervisor approves, and the paper is accepted at a conference with joint authorship. It appears in both students' PhD theses. Is this responsible conduct? What action would you take as the Dean? Is the supervisor irresponsible?
+
+*Solution:*
+
+>Ethical Issues:
+
+1. *Authorship and Contribution*: 
+
+   - The student who did the draft should be credited for their original contributions, but the second student, who did the majority of the revisions, should not be an equal co-author unless they made substantial intellectual contributions.
+
+   - According to ethical research practices, authorship should reflect the level of contribution made to the work. If the second student did the majority of the work, their authorship status should be more prominent. Simply revising the work does not usually justify equal authorship.
+
+2. *Use of External Source*: 
+
+   - The use of an exercise from an external source should be properly acknowledged in the paper to avoid any plagiarism or misrepresentation of ideas. If the work is borrowed, citing the original source is necessary.
+
+3. *Thesis and Redundant Publication*: 
+
+   - If the same paper is included in both PhD theses, this could lead to *self-plagiarism* if the students claim the same work as original contributions in their theses. The students must differentiate their contributions in their theses or use the paper as a basis for further, independent research.
+
+> Actions as Dean:
+
+1. *Investigate the Contributions*: 
+
+   - Review the contributions of each student in the paper and confirm if the authorship is correctly assigned. If one student did most of the work, they should be the primary author, and the other should be appropriately acknowledged.
+   
+2. *Ensure Proper Citations*: 
+
+   - Ensure that the external source of the exercise is properly cited in the paper to avoid plagiarism.
+   
+3. *Address Redundant Publication*: 
+   - If the paper appears in both students' theses, ensure that this is not treated as original research for both. Advise the students to differentiate their research work in the theses, ensuring there is no overlap or redundancy.
+   
+4. *Counsel the Supervisor*: 
+   - The supervisor should take a more active role in overseeing authorship and ensuring proper research practices. Supervisors are responsible for ensuring that credit is assigned accurately and ethically. They should have reviewed the paper thoroughly and ensured that authorship was determined based on substantial contribution.
+
+- *Not responsible conduct*: The authorship issue needs correction, and the students must ensure their individual contributions are properly acknowledged in their theses. The supervisor is also partially responsible for this situation as they did not adequately review and address authorship and contributions.
+
+- *Actions*: Correct the authorship and clarify the contributions of each student in both the paper and the theses. The supervisor should also be reminded of their ethical responsibility in overseeing proper research conduct and authorship assignment.
+
+### 18. What is the difference between reference and a bibliography in research publications?
+
+*Solution:*
+
+- *Reference*: A list of sources that are directly cited in the research paper. Each reference corresponds to a specific in-text citation used to support claims or provide context within the work.
+  
+- *Bibliography*: A comprehensive list of all sources consulted during the research process, regardless of whether they were cited in the paper. It may include references, but also sources that were read for background information or inspiration.
+
+---
+
+## Case studies:
+
+### Scenario 1:
+A researcher works in a laboratory and records data and results in a research diary. After a few years, the researcher changes institutions, joins a new lab, and applies for a patent for work that was completed in the previous lab.
+
+>*Questions and Answers:*
+
+1. *What ethical concerns arise when a researcher applies for a patent based on work completed at a previous institution?*
+
+   *Answer*: The primary ethical concern in this scenario is the *ownership of intellectual property*. The researcher should have acknowledged the previous institution's contribution, as the work was completed there. Applying for a patent without informing the previous lab or obtaining permission can be considered a breach of ethical standards and can undermine the integrity of the research process. According to the *American Physical Society* (APS) Code of Conduct, researchers should ensure proper attribution and respect for the work of previous collaborators.
+
+2. *Is the researcher’s action of applying for a patent without acknowledging the previous institution or lab a violation of research ethics?*
+
+   *Answer*: Yes, this action violates research ethics. According to the APS Code of Conduct, researchers must properly acknowledge all contributors and institutions involved in the research. The failure to disclose the prior institution and its involvement in the research can lead to accusations of misappropriation of intellectual property and lack of transparency.
+
+3. *How does the lack of prior approval or acknowledgment of the former lab impact the integrity of the research process?*
+
+   *Answer*: The lack of prior approval or acknowledgment of the former lab compromises the *integrity of the research process* by neglecting to provide fair credit to all parties involved in the research. It also creates a potential conflict over intellectual property rights, which can lead to disputes. The APS Code emphasizes the importance of collaboration and transparency, which are essential to maintaining trust in the research community.
+
+4. *Does this scenario constitute academic misconduct? If so, which ethical principles are violated?*
+
+   *Answer*: Yes, this scenario could constitute academic misconduct. The primary ethical principles violated include *intellectual property rights*, *misrepresentation*, and *lack of transparency*. The researcher failed to consult with the previous institution and did not acknowledge the contributions of the original lab, which could be seen as misappropriating the work for personal gain without giving proper credit.
+
+5. *Is the researcher’s failure to inform the previous lab and obtain consent for the patent application considered research misconduct? Why or why not?*
+
+   *Answer*: Yes, the researcher’s failure to inform the previous lab and obtain consent for the patent application is considered a form of research misconduct. According to the APS Code of Conduct, researchers must act with integrity and ensure that all contributors are properly acknowledged. By omitting the previous institution from the patent application, the researcher violated the ethical standards related to honesty, attribution, and the responsible conduct of research.
+
+6. *How does intellectual property law intersect with research ethics in this case?*
+
+   *Answer*: Intellectual property law plays a critical role in determining who holds the rights to the research and its outputs, such as patents. From an ethical standpoint, the APS Code of Conduct aligns with intellectual property law by promoting the fair and transparent attribution of work. The researcher should have followed both ethical guidelines and legal protocols by obtaining consent from the previous institution before filing for a patent. This ensures respect for intellectual property and prevents disputes over ownership.
+
+7. *As an academic institution, how would you address the ethical violation in this case? What actions should be taken to ensure proper acknowledgment and handling of intellectual property?*
+
+   *Answer*: As an academic institution, the first step would be to investigate the case to understand the facts. If the researcher did not follow proper procedures for acknowledging the previous institution, the institution should work with the researcher to address the issue. Actions could include issuing a formal warning, requiring the researcher to properly acknowledge the previous institution in any subsequent publications or patent applications, and ensuring that any legal disputes are resolved. Additionally, institutions should provide clear guidelines on intellectual property management and the importance of acknowledging all contributors.
+
+8. *What steps should the researcher take to rectify the situation if the patent application has already been filed?*
+
+   *Answer*: If the patent application has already been filed, the researcher should immediately inform the previous institution and any co-authors involved in the original work. They should seek approval from the previous lab and update the patent application to include the proper acknowledgment. The researcher should also ensure that the previous institution’s rights are respected and that all contributions are accurately documented. If necessary, the researcher should work with legal advisors to resolve any conflicts over intellectual property rights.
+
+9. *What strategies can be implemented in research institutions to prevent similar ethical issues from arising in the future?*
+
+   *Answer*: Research institutions can implement several strategies to prevent similar ethical issues, such as:
+   - Providing clear guidelines on intellectual property rights and patent applications.
+   - Ensuring that all researchers understand the importance of acknowledging contributions from previous institutions or labs.
+   - Promoting transparency and open communication regarding the ownership of research data and outcomes.
+   - Offering training on responsible research practices, particularly in relation to patenting and publication.
+
+10. *How should institutions handle intellectual property agreements with researchers to ensure transparency and accountability?*
+
+   *Answer*: Institutions should establish clear intellectual property agreements that outline the ownership and rights to research outputs. These agreements should be discussed at the outset of a research project and updated as necessary, particularly when researchers move between labs or institutions. By setting clear expectations and ensuring that all parties are aware of their rights and responsibilities, institutions can foster a culture of transparency and accountability. Furthermore, institutions should have mechanisms in place to resolve disputes and provide guidance on ethical issues related to intellectual property.
+
+---
+
+### 1. *Scenario: Unauthorized Use of Laboratory Equipment*
+A researcher in a university laboratory uses the equipment after hours without informing the lab supervisor or other researchers. The researcher completes a significant part of their experiment using the equipment, but the work is not properly documented.
+
+> *Ethical Issue:*
+Unauthorized use of institutional resources, lack of transparency, and neglecting to inform others involved in the research.
+
+> *Solution:*
+According to the *American Physical Society* Code of Ethics, researchers must act with integrity and respect institutional policies. The researcher should have sought approval from the supervisor and ensured proper documentation of all work. The researcher should be reminded of the importance of transparency and the ethical obligation to respect institutional resources.
+
+---
+
+### 2. *Scenario: Duplicate Publication of Research Results*
+A researcher submits the same research findings to two different journals without informing the editors or authors of the other publication.
+
+> *Ethical Issue:*
+Duplicate publication and failure to disclose prior submissions.
+
+> *Solution:*
+The *APS Code of Ethics* prohibits duplicate publication. The researcher should withdraw one submission, disclose the prior submission to both journals, and ensure that future submissions adhere to ethical guidelines. Both journals should be notified, and the researcher should be educated about the ethical obligation to disclose prior submissions to avoid misleading the academic community.
+
+---
+
+### 3. *Scenario: Co-authorship Dispute*
+Two researchers work on a project and contribute equally to the research. However, when the paper is submitted, one researcher’s name is omitted from the authorship list, despite their significant contributions.
+
+> *Ethical Issue:*
+Inappropriate authorship attribution and failure to acknowledge all contributors.
+
+> *Solution:*
+As per the *APS Code of Ethics*, proper authorship must reflect the contributions of all involved. The omitted researcher should be added to the authorship list with appropriate acknowledgment. The supervisor should review the situation and ensure that authorship guidelines are clear and followed in the future. Institutions should establish protocols to resolve authorship disputes.
+
+---
+
+### 4. *Scenario: Fabrication of Data in a Research Experiment*
+A researcher fabricates data in an experiment to make their results appear more significant. The data is later used in multiple publications.
+
+> *Ethical Issue:*
+Fabrication of data and misleading the scientific community.
+
+> *Solution:*
+The *APS Code of Ethics* clearly condemns data fabrication. The researcher’s actions must be reported to the institution, and a thorough investigation should be conducted. The researcher should retract all affected publications, and any false claims should be corrected. Institutions should have strong procedures to prevent and address data falsification.
+
+---
+
+### 5. *Scenario: Plagiarism in Thesis Work*
+A PhD student uses paragraphs directly from previously published articles without proper citation, integrating them into their thesis as part of their literature review.
+
+> *Ethical Issue:*
+Plagiarism and failure to properly attribute intellectual property.
+
+> *Solution:*
+The *APS Code of Ethics* emphasizes the importance of proper citation to give credit to original authors. The student should be required to revise their thesis to properly cite all sources. The institution should implement a plagiarism detection process, and the student should undergo additional training on academic integrity.
+
+---
+
+### 6. *Scenario: Misuse of Research Funding*
+A researcher uses a portion of their allocated research grant for personal expenses, violating the terms of the funding agreement.
+
+> *Ethical Issue:*
+Misuse of research funds and financial misconduct.
+
+> *Solution:*
+According to the *APS Code of Ethics*, researchers must manage research funds responsibly. The researcher should be held accountable, and any misuse should be investigated thoroughly. The institution should implement stronger oversight of funding usage, and the researcher may be required to repay the misused funds.
+
+---
+
+### 7. *Scenario: Misleading Author Contributions*
+A paper is published in which the order of authors is not reflective of their actual contributions. One author who contributed significantly is listed last, while another who did minimal work is placed first.
+
+> *Ethical Issue:*
+Misleading authorship order and failure to properly acknowledge contributions.
+
+> *Solution:*
+The *APS Code of Ethics* requires proper attribution and transparency in authorship. The authorship order should be corrected, and all contributions should be clearly stated. Future publications should establish clear communication among authors regarding contributions and order of authorship.
+
+---
+
+### 8. *Scenario: Data Sharing Conflict*
+A researcher collects unique data for their project but refuses to share it with other researchers, hindering collaboration and scientific progress.
+
+> *Ethical Issue:*
+Failure to share data and promote collaborative research.
+
+> *Solution:*
+The *APS Code of Ethics* promotes openness and sharing of data to advance scientific knowledge. The researcher should be encouraged to share the data with others and collaborate in a way that benefits the scientific community. Institutions should foster an environment of transparency and collaboration by creating clear data-sharing policies.
+
+---
+
+### 9. *Scenario: Lack of Informed Consent for Experiment Participation*
+A researcher conducts experiments involving human participants but does not obtain informed consent from all participants, as required by institutional ethics guidelines.
+
+> *Ethical Issue:*
+Violation of informed consent and failure to protect research participants.
+
+> *Solution:*
+The *APS Code of Ethics* emphasizes the need for informed consent in all research involving human subjects. The researcher should stop the experiment and ensure that all participants are properly informed and consent to the study. The research must be reviewed by the institution’s ethics committee, and the researcher should undergo additional training on ethical research practices involving human participants.
+
+---
+
+### 10. *Scenario: Supervisor Taking Credit for Student’s Research*
+A PhD student completes the majority of the work for their dissertation, but the supervisor insists on being listed as the first author on the resulting publication without contributing significantly.
+
+> *Ethical Issue:*
+Unjustified authorship and failure to recognize the primary contributor.
+
+> *Solution:*
+The *APS Code of Ethics* states that authorship should be based on actual contributions. The supervisor’s insistence on being the first author without significant input violates ethical guidelines. The student should discuss the situation with the supervisor and institution to ensure proper recognition of their contributions. Clear authorship guidelines should be established to avoid similar conflicts in the future.
+
+---
