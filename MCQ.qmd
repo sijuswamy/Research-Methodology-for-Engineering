@@ -3,7 +3,11 @@ title: "Sample Research Methodology MCQs"
 format: html
 ---
 
-### 1. *What is the primary purpose of research methodology?*
+# Multiple Choice Questions
+
+## General
+
+###  *What is the primary purpose of research methodology?*
 
 - a) To collect data
 - b) To analyze the data
@@ -14,7 +18,7 @@ format: html
 
 ---
 
-### 2. *Which of the following is NOT a characteristic of quantitative research?*
+###  *Which of the following is NOT a characteristic of quantitative research?*
 
 - a) Involves numerical data
 - b) Focuses on measuring variables
@@ -25,7 +29,7 @@ format: html
 
 ---
 
-### 3. *A literature review in research primarily aims to:*
+###  *A literature review in research primarily aims to:*
 
 - a) Collect primary data
 - b) Analyze research findings
@@ -36,7 +40,7 @@ format: html
 
 ---
 
-### 4. *What does "sampling" refer to in research methodology?*
+###  *What does "sampling" refer to in research methodology?*
 
 - a) Selecting a sample population to represent a larger group
 - b) Collecting data from a census
@@ -47,7 +51,7 @@ format: html
 
 ---
 
-### 5. *Which research method is most likely to be used for exploratory research?*
+###  *Which research method is most likely to be used for exploratory research?*
 
 - a) Case study
 - b) Survey
@@ -58,7 +62,7 @@ format: html
 
 ---
 
-### 6. *What is the key difference between "inductive" and "deductive" reasoning?*
+###  *What is the key difference between "inductive" and "deductive" reasoning?*
 
 - a) Inductive reasoning begins with a theory, while deductive reasoning starts with observations.
 - b) Inductive reasoning builds generalizations based on specific observations, while deductive reasoning tests hypotheses based on existing theories.
@@ -69,7 +73,7 @@ format: html
 
 ---
 
-### 7. *What is a "hypothesis" in research?*
+###  *What is a "hypothesis" in research?*
 
 - a) A fact
 - b) An educated guess or prediction based on existing knowledge
@@ -80,7 +84,7 @@ format: html
 
 ---
 
-### 8. *Which of the following is an example of a primary data source?*
+###  *Which of the following is an example of a primary data source?*
 
 - a) A published research paper
 - b) A census report
@@ -91,7 +95,7 @@ format: html
 
 ---
 
-### 9. *In research, a "control group" is used to:*
+###  *In research, a "control group" is used to:*
 
 - a) Minimize the effect of extraneous variables
 - b) Identify the variables being tested
@@ -102,7 +106,7 @@ format: html
 
 ---
 
-### 10. *Which of the following is NOT a type of research design?*
+###  *Which of the following is NOT a type of research design?*
 
 - a) Descriptive research
 - b) Correlational research
@@ -117,7 +121,7 @@ format: html
 ## Unit 1
 
 
-### 1. *What is the first step in the research process?*
+###  *What is the first step in the research process?*
 
 - a) Formulating a hypothesis
 - b) Reviewing the literature
@@ -128,7 +132,7 @@ format: html
 
 ---
 
-### 2. *Which of the following is NOT typically a characteristic of qualitative research?*
+###  *Which of the following is NOT typically a characteristic of qualitative research?*
 
 - a) Non-numerical data
 - b) In-depth understanding of human experiences
@@ -139,7 +143,7 @@ format: html
 
 ---
 
-### 3. *The purpose of research questions in a study is to:*
+###  *The purpose of research questions in a study is to:*
 
 - a) Summarize the findings
 - b) Guide the entire research process
@@ -150,7 +154,7 @@ format: html
 
 ---
 
-### 4. *Which of the following is an example of exploratory research?*
+###  *Which of the following is an example of exploratory research?*
 
 - a) Analyzing the impact of advertising on consumer behavior
 - b) Conducting focus groups to explore perceptions of a new product
@@ -161,7 +165,7 @@ format: html
 
 ---
 
-### 5. *Which type of research design is used when the researcher wants to establish cause-and-effect relationships?*
+###  *Which type of research design is used when the researcher wants to establish cause-and-effect relationships?*
 
 - a) Descriptive research design
 - b) Experimental research design
@@ -172,7 +176,7 @@ format: html
 
 ---
 
-### 6. *Quantitative research primarily involves:*
+###  *Quantitative research primarily involves:*
 
 - a) Describing individual experiences
 - b) Collecting numerical data to establish patterns or relationships
@@ -183,7 +187,7 @@ format: html
 
 ---
 
-### 7. *Which of the following is NOT a characteristic of qualitative research?*
+###  *Which of the following is NOT a characteristic of qualitative research?*
 
 - a) Focuses on understanding people’s experiences
 - b) Uses statistical analysis to generalize findings
@@ -194,7 +198,7 @@ format: html
 
 ---
 
-### 8. *Confirmatory research focuses on:*
+###  *Confirmatory research focuses on:*
 
 - a) Discovering new patterns or insights
 - b) Testing and validating existing theories or hypotheses
@@ -205,7 +209,7 @@ format: html
 
 ---
 
-### 9. *Which of the following is a key difference between experimental and theoretical research?*
+###  *Which of the following is a key difference between experimental and theoretical research?*
 
 - a) Experimental research involves testing theories through controlled experiments, while theoretical research focuses on conceptual frameworks without direct testing.
 - b) Experimental research is always conducted in a laboratory setting, while theoretical research is always field-based.
@@ -216,7 +220,7 @@ format: html
 
 ---
 
-### 10. *Building and validating theoretical models in research involves:*
+###  *Building and validating theoretical models in research involves:*
 
 - a) Collecting primary data without any hypotheses
 - b) Creating frameworks to explain phenomena and testing them against empirical data
@@ -227,7 +231,7 @@ format: html
 
 ---
 
-### 11. *Which of the following is true about reasoning in research?*
+###  *Which of the following is true about reasoning in research?*
 
 - a) Reasoning is not necessary in research; only data collection matters.
 - b) Both inductive and deductive reasoning are used to make sense of data and develop theories.
@@ -238,7 +242,7 @@ format: html
 
 ---
 
-### 12. *Theoretical research is primarily concerned with:*
+###  *Theoretical research is primarily concerned with:*
 
 - a) The development of practical solutions to real-world problems
 - b) Understanding, refining, or extending existing theories and concepts
@@ -249,7 +253,7 @@ format: html
 
 ---
 
-### 13. *What distinguishes quantitative research from qualitative research?*
+###  *What distinguishes quantitative research from qualitative research?*
 
 - a) Quantitative research uses numerical data; qualitative research uses non-numerical data
 - b) Quantitative research explores people's experiences, while qualitative research focuses on patterns and trends
@@ -260,7 +264,7 @@ format: html
 
 ---
 
-### 14. *In the context of research design, randomization is used primarily in:*
+###  *In the context of research design, randomization is used primarily in:*
 
 - a) Experimental research
 - b) Descriptive research
@@ -271,7 +275,7 @@ format: html
 
 ---
 
-### 15. *Exploratory research is most appropriate when:*
+###  *Exploratory research is most appropriate when:*
 
 - a) There is a well-established theory that needs to be tested
 - b) The researcher is trying to confirm existing theories
@@ -400,7 +404,7 @@ format: html
 
 ##> UNIT 3: Research Process and Experimental Design
 
-### 1. Problem formulation in the research process involves:
+###  Problem formulation in the research process involves:
 - a) Defining the research question and determining the scope of the study
 - b) Writing the conclusions and recommendations of the study
 - c) Selecting the research methodology
@@ -408,7 +412,7 @@ format: html
 
 **Answer**: a) Defining the research question and determining the scope of the study
 
-### 2. Modeling and simulation in research is used to:
+###  Modeling and simulation in research is used to:
 - a) Conduct experiments in the real world
 - b) Represent and study complex systems or phenomena using mathematical or computational models
 - c) Collect data from field experiments
@@ -416,7 +420,7 @@ format: html
 
 **Answer**: b) Represent and study complex systems or phenomena using mathematical or computational models
 
-### 3. In experimental research, establishing a cause-effect relationship requires:
+###  In experimental research, establishing a cause-effect relationship requires:
 - a) Observing the relationship between two variables without intervention
 - b) Using theoretical models to predict outcomes
 - c) Manipulating one variable to observe its effect on another variable
@@ -424,7 +428,7 @@ format: html
 
 **Answer**: c) Manipulating one variable to observe its effect on another variable
 
-### 4. The development of a hypothesis is:
+###  The development of a hypothesis is:
 - a) The final step in the research process
 - b) A guess made after collecting data
 - c) A testable statement based on theory or observation
@@ -432,7 +436,7 @@ format: html
 
 **Answer**: c) A testable statement based on theory or observation
 
-### 5. Measurement systems analysis (MSA) helps in:
+###  Measurement systems analysis (MSA) helps in:
 - a) Designing experiments
 - b) Determining the validity of measurement tools and ensuring accurate data collection
 - c) Analyzing the correlation between variables
@@ -440,7 +444,7 @@ format: html
 
 **Answer**: b) Determining the validity of measurement tools and ensuring accurate data collection
 
-### 6. Error propagation refers to:
+###  Error propagation refers to:
 - a) The accumulation of errors in data collection
 - b) The way in which errors in measurements affect the results of a calculation or analysis
 - c) The random distribution of data points in an experiment
@@ -448,7 +452,7 @@ format: html
 
 **Answer**: b) The way in which errors in measurements affect the results of a calculation or analysis
 
-### 7. Validity of experiments refers to:
+###  Validity of experiments refers to:
 - a) The consistency of the experimental results over time
 - b) The degree to which an experiment measures what it is intended to measure
 - c) The number of trials conducted in the experiment
@@ -456,7 +460,7 @@ format: html
 
 **Answer**: b) The degree to which an experiment measures what it is intended to measure
 
-### 8. The statistical design of experiments involves:
+###  The statistical design of experiments involves:
 - a) Designing experiments in a way that reduces the number of variables being studied
 - b) Randomly assigning participants to treatment groups
 - c) Planning how to control and measure variables to draw valid conclusions from experimental data
@@ -464,7 +468,7 @@ format: html
 
 **Answer**: c) Planning how to control and measure variables to draw valid conclusions from experimental data
 
-### 9. Field experiments are primarily characterized by:
+###  Field experiments are primarily characterized by:
 - a) Being conducted in laboratory settings
 - b) Manipulating variables in natural, real-world settings
 - c) Collecting data via surveys
@@ -472,7 +476,7 @@ format: html
 
 **Answer**: b) Manipulating variables in natural, real-world settings
 
-### 10. Data/variable types and classification includes:
+###  Data/variable types and classification includes:
 - a) Measuring the accuracy of data collection tools
 - b) Classifying variables as dependent or independent, and qualitative or quantitative
 - c) Setting up statistical models for analysis
@@ -480,7 +484,7 @@ format: html
 
 **Answer**: b) Classifying variables as dependent or independent, and qualitative or quantitative
 
-### 11. Data collection in research typically involves:
+###  Data collection in research typically involves:
 - a) Conducting experiments to collect primary data
 - b) Relying only on secondary data sources
 - c) Analyzing data before it is collected
@@ -488,7 +492,7 @@ format: html
 
 **Answer**: a) Conducting experiments to collect primary data
 
-### 12. Sampling is a technique used to:
+###  Sampling is a technique used to:
 - a) Collect data from the entire population
 - b) Reduce the amount of data needed for analysis by selecting a representative subset
 - c) Analyze all data collected without any adjustments
@@ -496,7 +500,7 @@ format: html
 
 **Answer**: b) Reduce the amount of data needed for analysis by selecting a representative subset
 
-### 13. Observational studies involve:
+###  Observational studies involve:
 - a) Manipulating variables to observe their effect
 - b) Collecting data by observing subjects in their natural environment without intervention
 - c) Designing experiments with a specific hypothesis in mind
@@ -504,7 +508,7 @@ format: html
 
 **Answer**: b) Collecting data by observing subjects in their natural environment without intervention
 
-### 14. Surveys are commonly used in research to:
+###  Surveys are commonly used in research to:
 - a) Collect qualitative data through open-ended questions
 - b) Obtain a broad range of responses from a large group of people to understand attitudes or behaviors
 - c) Collect experimental data in laboratory conditions
@@ -512,7 +516,7 @@ format: html
 
 **Answer**: b) Obtain a broad range of responses from a large group of people to understand attitudes or behaviors
 
-### 15. Inferential statistics is used to:
+###  Inferential statistics is used to:
 - a) Summarize the basic features of data
 - b) Make predictions or inferences about a population based on sample data
 - c) Measure the spread of data points in a dataset
@@ -520,7 +524,7 @@ format: html
 
 **Answer**: b) Make predictions or inferences about a population based on sample data
 
-### 16. The interpretation of results involves:
+###  The interpretation of results involves:
 - a) Presenting raw data without analysis
 - b) Drawing conclusions based on statistical analysis and relating them back to the research question
 - c) Designing the experiment based on the results
@@ -528,7 +532,7 @@ format: html
 
 **Answer**: b) Drawing conclusions based on statistical analysis and relating them back to the research question
 
-### 17. R-software is commonly used in research for:
+###  R-software is commonly used in research for:
 - a) Collecting data from experiments
 - b) Writing literature reviews
 - c) Performing statistical analysis, including data visualization and hypothesis testing
@@ -536,7 +540,7 @@ format: html
 
 **Answer**: c) Performing statistical analysis, including data visualization and hypothesis testing
 
-### 18. When analyzing data using R-software, the function `lm()` is used for:
+###  When analyzing data using R-software, the function `lm()` is used for:
 - a) Plotting graphs
 - b) Performing linear regression analysis
 - c) Running descriptive statistics
@@ -544,7 +548,7 @@ format: html
 
 **Answer**: b) Performing linear regression analysis
 
-### 19. Numerical data analysis in research often includes:
+###  Numerical data analysis in research often includes:
 - a) Analyzing text data for themes and patterns
 - b) Describing and summarizing data using measures such as mean, median, and standard deviation
 - c) Conducting qualitative interviews with participants
@@ -552,7 +556,7 @@ format: html
 
 **Answer**: b) Describing and summarizing data using measures such as mean, median, and standard deviation
 
-### 20. In experimental research, the independent variable is:
+###  In experimental research, the independent variable is:
 - a) The variable that is measured or observed in the experiment
 - b) The variable that is manipulated to observe its effect on the dependent variable
 - c) The variable that is not controlled in the experiment
@@ -563,7 +567,7 @@ format: html
 
 ## UNIT 4: Research Ethics and Philosophy
 
-### 1. Philosophy is primarily concerned with:
+###  Philosophy is primarily concerned with:
 - a) The study of social behavior
 - b) The study of the nature of reality, knowledge, and ethics
 - c) The development of new scientific theories
@@ -571,7 +575,7 @@ format: html
 
 **Answer:** b) The study of the nature of reality, knowledge, and ethics
 
-### 2. Which of the following is NOT a branch of philosophy?
+###  Which of the following is NOT a branch of philosophy?
 - a) Metaphysics
 - b) Epistemology
 - c) Psychology
@@ -579,7 +583,7 @@ format: html
 
 **Answer:** c) Psychology
 
-### 3. Ethics in the context of research refers to:
+###  Ethics in the context of research refers to:
 - a) A set of guidelines for data collection
 - b) The moral principles that govern a researcher’s behavior and conduct
 - c) The financial aspects of conducting research
@@ -587,7 +591,7 @@ format: html
 
 **Answer:** b) The moral principles that govern a researcher’s behavior and conduct
 
-### 4. Moral philosophy focuses on:
+###  Moral philosophy focuses on:
 - a) Political theories about governance
 - b) The nature of knowledge and how it is acquired
 - c) Questions about what is right and wrong, good and bad
@@ -595,7 +599,7 @@ format: html
 
 **Answer:** c) Questions about what is right and wrong, good and bad
 
-### 5. The nature of moral judgments and reactions in ethics typically involves:
+###  The nature of moral judgments and reactions in ethics typically involves:
 - a) Deciding how to allocate resources in research
 - b) Evaluating actions as right or wrong based on ethical principles
 - c) Following the latest research trends in a particular field
@@ -603,7 +607,7 @@ format: html
 
 **Answer:** b) Evaluating actions as right or wrong based on ethical principles
 
-### 6. Scientific conduct refers to:
+###  Scientific conduct refers to:
 - a) The methods and procedures followed to conduct experiments
 - b) The ethical guidelines researchers must follow during the research process
 - c) The theoretical framework guiding research
@@ -611,7 +615,7 @@ format: html
 
 **Answer:** b) The ethical guidelines researchers must follow during the research process
 
-### 7. Intellectual honesty in research involves:
+###  Intellectual honesty in research involves:
 - a) Reporting research results regardless of their accuracy
 - b) Acknowledging the work of others and avoiding misrepresentation of data
 - c) Publishing papers without peer review
@@ -619,7 +623,7 @@ format: html
 
 **Answer:** b) Acknowledging the work of others and avoiding misrepresentation of data
 
-### 8. Scientific misconduct includes all of the following EXCEPT:
+###  Scientific misconduct includes all of the following EXCEPT:
 - a) Fabrication of data
 - b) Falsification of research results
 - c) Plagiarism
@@ -627,7 +631,7 @@ format: html
 
 **Answer:** d) Reviewing articles without conflict of interest
 
-### 9. Falsification of data refers to:
+###  Falsification of data refers to:
 - a) Copying another researcher’s work without acknowledgment
 - b) Manipulating research data to fit a desired outcome
 - c) Publishing data from experiments that were never conducted
@@ -635,7 +639,7 @@ format: html
 
 **Answer:** b) Manipulating research data to fit a desired outcome
 
-### 10. Fabrication of data involves:
+###  Fabrication of data involves:
 - a) Reporting results based on real experiments
 - b) Misrepresenting data to support conclusions that are not supported by the actual data
 - c) Reusing data from previous studies without acknowledgment
@@ -643,7 +647,7 @@ format: html
 
 **Answer:** b) Misrepresenting data to support conclusions that are not supported by the actual data
 
-### 11. Plagiarism in research is the act of:
+###  Plagiarism in research is the act of:
 - a) Rewriting someone else’s research in your own words
 - b) Citing a paper without reading it
 - c) Using someone else's ideas or research results without proper acknowledgment
@@ -651,7 +655,7 @@ format: html
 
 **Answer:** c) Using someone else's ideas or research results without proper acknowledgment
 
-### 12. Redundant publication refers to:
+###  Redundant publication refers to:
 - a) The repetition of the same study results in multiple journals without new data
 - b) The publishing of findings in the same journal multiple times
 - c) Publishing results from a single study in different formats
@@ -659,7 +663,7 @@ format: html
 
 **Answer:** a) The repetition of the same study results in multiple journals without new data
 
-### 13. Salami slicing is an unethical publishing practice where:
+###  Salami slicing is an unethical publishing practice where:
 - a) A large research project is broken down into multiple small publications
 - b) The same research is published in different languages for broader reach
 - c) Data from various studies is pooled together
@@ -667,7 +671,7 @@ format: html
 
 **Answer:** a) A large research project is broken down into multiple small publications
 
-### 14. Selective reporting involves:
+###  Selective reporting involves:
 - a) Disclosing all results from a study in the final report
 - b) Choosing to report only the data that supports the hypothesis while ignoring data that contradicts it
 - c) Reporting findings from peer-reviewed sources
@@ -675,7 +679,7 @@ format: html
 
 **Answer:** b) Choosing to report only the data that supports the hypothesis while ignoring data that contradicts it
 
-### 15. The misrepresentation of data can occur when:
+###  The misrepresentation of data can occur when:
 - a) Data is presented out of context or with altered figures to make results appear more favorable
 - b) Results are reported without the use of proper statistical tools
 - c) Data is misinterpreted due to incorrect analysis
@@ -683,7 +687,7 @@ format: html
 
 **Answer:** a) Data is presented out of context or with altered figures to make results appear more favorable
 
-### 16. Publication ethics ensures:
+###  Publication ethics ensures:
 - a) That research findings are widely shared regardless of their validity
 - b) That researchers adhere to established standards and guidelines to maintain integrity in publishing
 - c) That articles are always published in high-impact journals
@@ -691,7 +695,7 @@ format: html
 
 **Answer:** b) That researchers adhere to established standards and guidelines to maintain integrity in publishing
 
-### 17. Best practices for publishing include:
+###  Best practices for publishing include:
 - a) Ensuring that all co-authors agree with the content and results of the paper
 - b) Ensuring that the research is freely available to the public, regardless of ethical guidelines
 - c) Disregarding ethical standards in favor of rapid publication
@@ -699,7 +703,7 @@ format: html
 
 **Answer:** a) Ensuring that all co-authors agree with the content and results of the paper
 
-### 18. A conflict of interest in research can arise when:
+###  A conflict of interest in research can arise when:
 - a) The research is funded by a third party that could benefit from the results
 - b) Authors do not disclose their affiliations with the funding body
 - c) A researcher has personal or financial interests that could affect their impartiality
@@ -707,7 +711,7 @@ format: html
 
 **Answer:** d) All of the above
 
-### 19. Publication misconduct can be identified when:
+###  Publication misconduct can be identified when:
 - a) Data is presented with a high degree of transparency and accuracy
 - b) There is a lack of acknowledgement of the contributions of others
 - c) Results are consistent with the methodology used
@@ -715,7 +719,7 @@ format: html
 
 **Answer:** b) There is a lack of acknowledgement of the contributions of others
 
-### 20. Problems leading to unethical behavior in research often include:
+###  Problems leading to unethical behavior in research often include:
 - a) Lack of awareness about ethical guidelines
 - b) Pressure to publish frequently or in high-impact journals
 - c) Misinterpretation of research findings
@@ -723,7 +727,7 @@ format: html
 
 **Answer:** d) All of the above
 
-### 21. A violation of publication ethics can occur when:
+###  A violation of publication ethics can occur when:
 - a) Data is honestly reported, but authorship is wrongly attributed
 - b) Authors adhere to ethical guidelines in data reporting
 - c) A study is published after thorough peer review
@@ -731,7 +735,7 @@ format: html
 
 **Answer:** a) Data is honestly reported, but authorship is wrongly attributed
 
-### 22. The authorship of a research paper should be assigned based on:
+###  The authorship of a research paper should be assigned based on:
 - a) The amount of funding received for the project
 - b) The order of contributions made during the research
 - c) Who provides the most financial support for the project
@@ -739,7 +743,7 @@ format: html
 
 **Answer:** b) The order of contributions made during the research
 
-### 23. The process for addressing publication misconduct typically includes:
+###  The process for addressing publication misconduct typically includes:
 - a) Ignoring complaints of misconduct to maintain the reputation of the journal
 - b) Filing complaints with the relevant institutional or journal authorities and investigating the claim
 - c) Allowing the researcher to publish regardless of ethical breaches
@@ -747,7 +751,7 @@ format: html
 
 **Answer:** b) Filing complaints with the relevant institutional or journal authorities and investigating the claim
 
-### 24. Complaints and appeals related to publication misconduct should be addressed by:
+###  Complaints and appeals related to publication misconduct should be addressed by:
 - a) The editor of the journal or the publisher
 - b) The research participants
 - c) The author(s) of the paper
